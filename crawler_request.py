@@ -8,7 +8,7 @@ def crawler(link):
     
     parser = MyHTMLParser(link, li)
     parser.feed(r.text)
-    return(li)
+    print(li)
     
 class MyHTMLParser(HTMLParser):
     def __init__(self, link, li):
@@ -24,10 +24,10 @@ class MyHTMLParser(HTMLParser):
                         for l in values:
                             isALetter = isALetter or l.isalpha()
                         if isALetter:
-                            if not values[0].isalpha() and values[0]!="#":
-                                values = self.link + values
-                            #print(values)
-                            self.li.append(values)
+                            if values[0] is not "#" and ".rss" not in values:
+                                if not values[0].isalpha():
+                                    values = self.link + values
+                                print(values)
+                                self.li.append(values)
 
-print(crawler("https://www.math.kit.edu/"))
-
+crawler("https://www.math.kit.edu/")
