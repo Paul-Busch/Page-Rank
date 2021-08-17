@@ -1,26 +1,33 @@
-from html.parser import HTMLParser
 import requests
-r = requests.get(
-    'https://www.math.kit.edu', verify= False)
+from html.parser import HTMLParser
 
-if r.status_code == 200:
-    #r.encoding
-	print(r.text)
-
-
+def crawler(link):    
+    r = requests.get(link, verify=False)
+    li = []
+    #print(r.text)
+    
+    parser = MyHTMLParser(link, li)
+    parser.feed(r.text)
+    return(li)
+    
 class MyHTMLParser(HTMLParser):
-
+    def __init__(self, link, li):
+        super().__init__()
+        self.link = link
+        self.li = li
     def handle_starttag(self, tag, attrs):
-        # Only parse the 'anchor' tag.
-        #if tag == "a":
-           # Check the list of defined attributes.
-        for name, value in attrs:
-            print("called")
-            # If href is defined, print it.
-            if name == "href":
-                print (name, "=", value)
-                print("called")
+        if tag == "a":
+            for name,values in attrs:
+                if name == "href":
+                    if not "@" in values:
+                        isALetter = False
+                        for l in values:
+                            isALetter = isALetter or l.isalpha()
+                        if isALetter:
+                            if not values[0].isalpha() and values[0]!="#":
+                                values = self.link + values
+                            #print(values)
+                            self.li.append(values)
 
+print(crawler("https://www.math.kit.edu/"))
 
-parser = MyHTMLParser()
-parser.feed('https://www.math.kit.edu')
