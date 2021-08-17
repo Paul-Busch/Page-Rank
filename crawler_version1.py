@@ -7,8 +7,10 @@ r = requests.get("https://www.math.kit.edu", verify=False)
 
 class MyHTMLParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
-        print("Encountered a start tag:", 'href')
-        print(self.get_starttag_text())
+        if tag == "a":
+            for name,values in attrs:
+                if name == "href":
+                    print(values)
         
 
 
