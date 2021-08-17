@@ -1,3 +1,5 @@
+
+import urllib
 import scrapy
 from scrapy.crawler import CrawlerProcess
 
