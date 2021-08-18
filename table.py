@@ -48,7 +48,9 @@ class Table():
         
         print(table)
         return init_table
-        
+    
+    def update_table(self):
+        pass
    
 
 
