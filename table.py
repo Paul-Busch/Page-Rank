@@ -33,16 +33,24 @@ class Table():
         self.html_link = html_link
 
     def find_missing_keys(self, table):
-        #initialize empty list that will contain the missing keys
-        lst_keys = []
-        for key in self.table:
+        # this function searches in the lists (values) of every key for links that are not yet a key
+        # we want every link that is in a list (value) should also be a key  
+        # initialize empty list that will contain the missing keys
+        lst_missing_keys = []
+        for key in table:
             for link in table[str(key)]:
                 if not link in table:
-                    lst_keys.append(link)
-        return lst_keys
+                    # don't save duplicates in the lst_missing_keys
+                    lst_missing_keys.append(link) if link not in lst_missing_keys else None
+        
+        return lst_missing_keys
 
 
     def create_init_table(self):
+        # returns an initale dictionary (table):
+        # keys are all outgoing links of the html_link (starting_link)
+        # values are lists with all outgoing links of the certain key
+        # that means the function creates a table with depth 1 
         init_table = dict()
         starting_point = self.html_link
 
@@ -54,10 +62,28 @@ class Table():
         #print(init_table)
         return init_table
     
-    def update_table(self):
+    def update_table(self, table):
+        # updates a given table
+    
+        #table = self.create_init_table()
+        print("given table is:", table)
+        # find missing keys
+        missing_keys = self.find_missing_keys(table)
+
+        print("missing keys are:", missing_keys)
+        # missing keys are added to the table
+        for link in missing_keys:
+            table[link] = MyHtmlParser(link).handleStartTag()
+
+    def get_table(self, depth=3):
+        # returns table with certain depth (Suchtiefe)
         table = self.create_init_table()
-        print(table)
-   
+        i = 1
+        for i in range(1,depth):
+            self.update_table(table)
+            print("updated table in der Schleife:", table)
+        return table
+
 
 
 
@@ -65,5 +91,5 @@ class Table():
 
         
 t = Table("1")
-table1 = t.update_table()
+table1 = t.get_table()
 
