@@ -1,6 +1,5 @@
 
-
-class MyHtmlParser():
+class MyHTMLParser_2():
 
     lst1 = ["2","3","4","5","6"]
     lst2 = ["3","4","5"]
@@ -13,19 +12,19 @@ class MyHtmlParser():
         self.html_link = html_link 
         
 
-    def handleStartTag(self):
+    def handle_starttag(self):
         if self.html_link == "1":
-            return MyHtmlParser.lst1
+            return MyHTMLParser.lst1
         elif self.html_link == "2":
-            return MyHtmlParser.lst2
+            return MyHTMLParser.lst2
         elif self.html_link == "3":
-            return MyHtmlParser.lst3
+            return MyHTMLParser.lst3
         elif self.html_link == "4":
-            return MyHtmlParser.lst4
+            return MyHTMLParser.lst4
         elif self.html_link == "5":
-            return MyHtmlParser.lst5
+            return MyHTMLParser.lst5
         elif self.html_link == "6":
-            return MyHtmlParser.lst6
+            return MyHTMLParser.lst6
 
 class Table(): 
 
@@ -54,10 +53,10 @@ class Table():
         init_table = dict()
         starting_point = self.html_link
 
-        for link in MyHtmlParser(starting_point).handleStartTag():     
+        for link in MyHTMLParser_2(starting_point).handle_starttag():     
         # hier werden doppelte keys überschrieben
            #create initial table where keys are from the list of the given html_link
-            init_table[link] = MyHtmlParser(link).handleStartTag()
+            init_table[link] = MyHTMLParser_2(link).handle_starttag()
         
         #print(init_table)
         return init_table
@@ -73,7 +72,7 @@ class Table():
         print("missing keys are:", missing_keys)
         # missing keys are added to the table
         for link in missing_keys:
-            table[link] = MyHtmlParser(link).handleStartTag()
+            table[link] = MyHTMLParser_2(link).handle_starttag()
 
     def get_table(self, depth=3):
         # returns table with certain depth (Suchtiefe)
@@ -92,4 +91,3 @@ class Table():
         
 t = Table("1")
 table1 = t.get_table()
-
