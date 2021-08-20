@@ -14,17 +14,17 @@ class MyHTMLParser_2():
 
     def handle_starttag(self):
         if self.html_link == "1":
-            return MyHTMLParser.lst1
+            return MyHTMLParser_2.lst1
         elif self.html_link == "2":
-            return MyHTMLParser.lst2
+            return MyHTMLParser_2.lst2
         elif self.html_link == "3":
-            return MyHTMLParser.lst3
+            return MyHTMLParser_2.lst3
         elif self.html_link == "4":
-            return MyHTMLParser.lst4
+            return MyHTMLParser_2.lst4
         elif self.html_link == "5":
-            return MyHTMLParser.lst5
+            return MyHTMLParser_2.lst5
         elif self.html_link == "6":
-            return MyHTMLParser.lst6
+            return MyHTMLParser_2.lst6
 
 class Table(): 
 
@@ -80,7 +80,7 @@ class Table():
         i = 1
         for i in range(1,depth):
             self.update_table(table)
-            print("updated table in der Schleife:", table)
+            #print("updated table in der Schleife:", table)
         return table
 
 
