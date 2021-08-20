@@ -1,11 +1,11 @@
 
 class MyHTMLParser_2():
 
-    lst1 = ["2","3","4","5","6"]
+    lst1 = ["2","3","4","5"]
     lst2 = ["3","4","5"]
     lst3 = ["1", "6"]
     lst4 = ["1", "3"]
-    lst5 = ["1", "6"]
+    lst5 = ["6"]
     lst6 = ["2", "4"]
 
     def __init__(self, html_link): 
@@ -65,11 +65,11 @@ class Table():
         # updates a given table
     
         #table = self.create_init_table()
-        print("given table is:", table)
+        #print("given table is:", table)
         # find missing keys
         missing_keys = self.find_missing_keys(table)
 
-        print("missing keys are:", missing_keys)
+        #print("missing keys are:", missing_keys)
         # missing keys are added to the table
         for link in missing_keys:
             table[link] = MyHTMLParser_2(link).handle_starttag()
