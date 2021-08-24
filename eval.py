@@ -50,12 +50,20 @@ class EvalMatrix():
         return A
     
     def calculate_matrix_M(self):
-        pass
+        B = np.ones((len(self.table), len(self.table)))
+        M = (1 - 0.15) * self.build_matrix_A() + (0.15 / len(self.table)) * B
+        return M 
 
     def calculate_vector_iteration(self):
-        pass
-
-
+        M = self.calculate_matrix_M()
+        # start with x_0
+        x_k = np.ones(len(self.table))
+        x_k1 = np.dot(M, x_k)
+        while (x_k - x_k1).all() > 0.0001:
+            x_k = x_k1
+            x_k1 = np.dot(M, x_k)
+        # if x_k - x_k1 is small return x_k1
+        return x_k1
 
 
 
@@ -65,7 +73,7 @@ table = t.Table("1").get_table()
 #EvalMatrix(table).build_matrix_A()
 
 
-test = "test2"
+test = "test3"
 
 # test for calculate_weight()
 if test == "test1":
@@ -78,6 +86,8 @@ if test == "test2":
     A = EvalMatrix(table).build_matrix_A()
     #print(A)
 
-
-
+# test for calculate_vector_iteration()
+if test == "test3":
+    x = EvalMatrix(table).calculate_vector_iteration()
+    print("Eigenvektor:", x)
 
