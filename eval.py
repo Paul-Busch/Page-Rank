@@ -82,8 +82,9 @@ class EvalMatrix():
 t1 = mp.Table("https://www.math.kit.edu")
 table = t1.get_table()
 matr = EvalMatrix(table)
-matr.build_matrix_A()
-matr.calculate_matrix_M()
+matr.sort_links()
+# matr.build_matrix_A()
+# matr.calculate_matrix_M()
 
 #EvalMatrix(table).build_matrix_A()
 
