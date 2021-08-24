@@ -1,5 +1,6 @@
-import table as t
 import numpy as np
+import merging_file as mp
+import math
 
 class EvalMatrix():
 
@@ -52,6 +53,7 @@ class EvalMatrix():
     def calculate_matrix_M(self):
         B = np.ones((len(self.table), len(self.table)))
         M = (1 - 0.15) * self.build_matrix_A() + (0.15 / len(self.table)) * B
+        print (M)
         return M 
 
     def calculate_vector_iteration(self):
@@ -59,23 +61,29 @@ class EvalMatrix():
         # start with x_0
         x_k = np.ones(len(self.table))
         x_k1 = np.dot(M, x_k)
-        while (x_k - x_k1).all() > 0.0001:
+        while np.max(x_k - x_k1) > 0.001:
             x_k = x_k1
             x_k1 = np.dot(M, x_k)
         # if x_k - x_k1 is small return x_k1
+        # print(x_k1)
         return x_k1
 
     def sort_links(self):
         d = {}
         x = self.calculate_vector_iteration()
+        links = list(self.table.keys())
         for l in range(0, len(x)):
-            d[l] = x[l]
+            d[links[l]] = x[l] 
         d2 = {key: value for key, value in sorted(d.items(), reverse = True,  key=lambda item: item[1])}
         return d2
 
 
 
-table = t.Table("1").get_table()
+t1 = mp.Table("https://www.math.kit.edu")
+table = t1.get_table()
+matr = EvalMatrix(table)
+matr.build_matrix_A()
+matr.calculate_matrix_M()
 
 #EvalMatrix(table).build_matrix_A()
 
