@@ -44,7 +44,6 @@ class Table():
         
         return lst_missing_keys
 
-
     def create_init_table(self):
         # returns an initale dictionary (table):
         # keys are all outgoing links of the html_link (starting_link)
