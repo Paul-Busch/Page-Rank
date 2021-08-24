@@ -171,7 +171,7 @@ class EvalMatrix():
         # start with x_0
         x_k = np.ones(len(self.table))
         x_k1 = np.dot(M, x_k)
-        while (x_k - x_k1).all() > 0.0001:
+        while np.max(x_k - x_k1) > 0.0001:
             x_k = x_k1
             x_k1 = np.dot(M, x_k)
         # if x_k - x_k1 is small return x_k1
@@ -180,9 +180,11 @@ class EvalMatrix():
     def sort_links(self):
         d = {}
         x = self.calculate_vector_iteration()
+        links = list(self.table.keys())
         for l in range(0, len(x)):
-            d[l] = x[l]
+            d[links[l]] = x[l] 
         d2 = {key: value for key, value in sorted(d.items(), reverse = True,  key=lambda item: item[1])}
+        print(d2)
         return d2
 
 
