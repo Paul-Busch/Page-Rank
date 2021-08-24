@@ -52,6 +52,9 @@ class EvalMatrix():
     def calculate_matrix_M(self):
         pass
 
+    def calculate_vector_iteration(self):
+        pass
+
 
 
 

@@ -87,4 +87,4 @@ class Table():
 
         
 t = Table("1")
-table1 = t.create_init_table()
+table1 = t.get_table()
