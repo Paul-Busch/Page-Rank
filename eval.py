@@ -23,9 +23,7 @@ class EvalMatrix():
         if counter == 0:
             return 0
         else:
-            return counter/L
-                
-
+            return counter/L           
 
     def build_matrix_A(self):
         sorted_keys = sorted(self.table)
