@@ -65,6 +65,13 @@ class EvalMatrix():
         # if x_k - x_k1 is small return x_k1
         return x_k1
 
+    def sort_links(self):
+        d = {}
+        x = self.calculate_vector_iteration()
+        for l in range(0, len(x)):
+            d[l] = x[l]
+        d2 = {key: value for key, value in sorted(d.items(), reverse = True,  key=lambda item: item[1])}
+        return d2
 
 
 
@@ -73,7 +80,7 @@ table = t.Table("1").get_table()
 #EvalMatrix(table).build_matrix_A()
 
 
-test = "test3"
+test = "test4"
 
 # test for calculate_weight()
 if test == "test1":
@@ -91,3 +98,7 @@ if test == "test3":
     x = EvalMatrix(table).calculate_vector_iteration()
     print("Eigenvektor:", x)
 
+# test for sort_links
+if test == "test4":
+    d = EvalMatrix(table).sort_links()
+    print("sorted:", d)
