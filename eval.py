@@ -68,8 +68,9 @@ class EvalMatrix():
     def sort_links(self):
         d = {}
         x = self.calculate_vector_iteration()
+        links = list(self.table.keys())
         for l in range(0, len(x)):
-            d[l] = x[l]
+            d[links[l]] = x[l]
         d2 = {key: value for key, value in sorted(d.items(), reverse = True,  key=lambda item: item[1])}
         return d2
 
