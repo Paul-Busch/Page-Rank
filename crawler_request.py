@@ -1,5 +1,7 @@
 import requests
 from html.parser import HTMLParser
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def crawler(link):    
     r = requests.get(link, verify=False)
@@ -8,7 +10,16 @@ def crawler(link):
     
     parser = MyHTMLParser(link, li)
     parser.feed(r.text)
-    #print(li)
+    modified_link = str(link)
+    for char in "/\:#.":
+        modified_link = modified_link.replace(char,"")
+    print(modified_link)
+
+        
+    #name = str(link) + ".txt"
+    f = open(modified_link, "w+" , encoding="utf8")
+    f.write(r.text)
+    return(li)
     
 class MyHTMLParser(HTMLParser):
     def __init__(self, link, li):
@@ -24,10 +35,14 @@ class MyHTMLParser(HTMLParser):
                         for l in values:
                             isALetter = isALetter or l.isalpha()
                         if isALetter:
-                            if values[0] is not "#" and ".rss" not in values:
+                            if not values[0] == "#" and ".rss" not in values:
                                 if not values[0].isalpha():
                                     values = self.link + values
                                 #print(values)
                                 self.li.append(values)
-
-crawler("https://www.math.kit.edu/")
+        
+a = crawler("https://www.math.kit.edu/")
+#print(a)
+#response = requests.get(a[3], verify = False)
+#print(response.status_code)
+#print(len(a))
