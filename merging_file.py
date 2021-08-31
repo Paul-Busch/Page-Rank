@@ -187,6 +187,10 @@ class EvalMatrix():
         print(d2)
         return d2
 
+    def save(self):
+        with open ('sorted.txt', 'w') as sl:
+            sl.write('{0}\n'.format(', '.join(str(n) for n in self.sort_links())))
+
 
 
 #print(crawler("https://www.math.kit.edu/"))
@@ -199,6 +203,8 @@ table = Table("https://www.math.kit.edu/").get_table()
 #print("ich bin hier 2")
 #EvalMatrix(table).build_matrix_A()
 
+s = EvalMatrix(table)
+s.save()
 
 test = "test4"
 
