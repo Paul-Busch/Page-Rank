@@ -3,6 +3,7 @@ from html.parser import HTMLParser
 import urllib3
 import time
 import numpy as np
+import json
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -190,26 +191,25 @@ class EvalMatrix():
         print(d2)
         return d2
 
+    def save_json(self):
+        dic = self.sort_links()
+        with open("sorted.json", "w") as outfile:
+            json.dump(dic, outfile)
+
     def save(self):
         with open ('sorted.txt', 'w') as sl:
             sl.write('{0}\n'.format(', '.join(str(n) for n in self.sort_links())))
 
 
 
-#print(crawler("https://www.math.kit.edu/"))
 
 table = Table("https://www.math.kit.edu/").get_table()
-#t.create_init_table()
-#print("ich bin hier 1")
-#dict_1 = t.get_table()
-#print("fertige Tabelle:", dict_1)
-#print("ich bin hier 2")
-#EvalMatrix(table).build_matrix_A()
 
-s = EvalMatrix(table)
-s.save()
 
-test = "test4"
+#s = EvalMatrix(table)
+#s.save()
+
+test = ""
 
 # test for calculate_weight()
 if test == "test1":
