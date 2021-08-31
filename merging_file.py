@@ -66,7 +66,10 @@ class Table():
         # that means the function creates a table with depth 1 
         init_table = dict()
         starting_point = self.html_link
-        #TODO: hier muss starting point auch in den init table eingebaut werden
+
+        # first coloum in the dict is the link "www.math.kit.edu"
+        init_table[self.html_link] = self.html_list
+
         k = 0
         #for link in crawler(starting_point):
         for link in self.html_list:
@@ -187,6 +190,10 @@ class EvalMatrix():
         print(d2)
         return d2
 
+    def save(self):
+        with open ('sorted.txt', 'w') as sl:
+            sl.write('{0}\n'.format(', '.join(str(n) for n in self.sort_links())))
+
 
 
 #print(crawler("https://www.math.kit.edu/"))
@@ -199,6 +206,8 @@ table = Table("https://www.math.kit.edu/").get_table()
 #print("ich bin hier 2")
 #EvalMatrix(table).build_matrix_A()
 
+s = EvalMatrix(table)
+s.save()
 
 test = "test4"
 
