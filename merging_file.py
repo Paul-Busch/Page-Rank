@@ -66,7 +66,10 @@ class Table():
         # that means the function creates a table with depth 1 
         init_table = dict()
         starting_point = self.html_link
-        #TODO: hier muss starting point auch in den init table eingebaut werden
+
+        # first coloum in the dict is the link "www.math.kit.edu"
+        init_table[self.html_link] = self.html_list
+
         k = 0
         #for link in crawler(starting_point):
         for link in self.html_list:
