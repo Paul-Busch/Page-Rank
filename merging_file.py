@@ -191,6 +191,10 @@ class EvalMatrix():
         return d2
 
 
+if __name__ == "main":
+    name = input("Nach welchen Begriff möchten Sie suchen?")
+    print(name)
+
 
 #print(crawler("https://www.math.kit.edu/"))
 
