@@ -1,5 +1,6 @@
 import requests
 from html.parser import HTMLParser
+from bs4 import BeautifulSoup
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -10,6 +11,18 @@ def crawler(link):
     
     parser = MyHTMLParser(link, li)
     parser.feed(r.text)
+    #print(link.status_code)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    
+    #results = BeautifulSoup(r.content, 'html.parser')
+    s1 = soup.get_text()#strip = True)
+    s1.split("\n")
+    #print(s1)
+    l = s1.split()
+    l= ' '.join(l)
+    l = l.split('.')
+    l = '\n'.join(l)
+    print(l)
     modified_link = str(link)
     for char in "/\:#.":
         modified_link = modified_link.replace(char,"")
@@ -17,8 +30,13 @@ def crawler(link):
 
         
     #name = str(link) + ".txt"
-    f = open(modified_link, "w+" , encoding="utf8")
-    f.write(r.text)
+    file = open(modified_link, "w+" , encoding="utf8")
+    file.write(l)
+    file.close()
+    #read = open(modified_link, "r")
+    #for r in read:
+        #print(r)
+    #print(li)
     return(li)
     
 class MyHTMLParser(HTMLParser):
