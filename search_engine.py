@@ -40,14 +40,20 @@ class SearchEngine():
                     return line"""
 
     def get_dict_of_lines(self):
-        # TODO: Sontraud
-        # input alle html links bzw. deren dokumente
+        doc = get_document(link)
+        list_of_lines = get_list_of_lines(doc) #Hab das word weggemacht, lieber self.word verweden
+        if list_of_lines:
+            self.dictionary_final[key] = [self.d2[key], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu
+        
+        
 
-        # loop über alle html links bzw. deren und schaut ob in dem document 
-        # parallelisieren
-        # return dic_lines = {"link": lines)}
-        pass
-
+    def paralleled(self):
+        with futures.ProcessPoolExecutor() as ex:
+            for key in self.d2:
+                ex.submit(get_dict_of_lines, key)
+            if ex.done():
+                self.dictionary_final = {k: v for k, v in sorted(self.dictionary_final.items(), key=lambda item: item[1])}
+                return self.dictionary_final
 
 
                 
