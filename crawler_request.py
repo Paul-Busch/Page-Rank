@@ -13,7 +13,7 @@ def crawler(link):
     parser = MyHTMLParser(link, li)
     parser.feed(r.text)
     #print(link.status_code)
-    soup = BeautifulSoup(r.text, 'html.parser')
+    soup = BeautifulSoup(r.content, 'html.parser')
     
     #results = BeautifulSoup(r.content, 'html.parser')
     s1 = soup.get_text()#strip = True)
@@ -27,7 +27,8 @@ def crawler(link):
     modified_link = str(link)
     for char in "/\:#.":
         modified_link = modified_link.replace(char,"")
-    print(modified_link)
+    #print(modified_link)
+    
 
         
     #name = str(link) + ".txt"
