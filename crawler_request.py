@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import requests
 from html.parser import HTMLParser
 from bs4 import BeautifulSoup
@@ -30,7 +31,7 @@ def crawler(link):
 
         
     #name = str(link) + ".txt"
-    file = open(modified_link, "w+" , encoding="utf8")
+    file = open(modified_link, "w+" , encoding="utf-8")
     file.write(l)
     file.close()
     #read = open(modified_link, "r")

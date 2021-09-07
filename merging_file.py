@@ -76,6 +76,10 @@ class Table():
         for link in self.html_list:
             if k <= 15:
                 try:
+                    """
+                    if math.kit.edu not in link:
+                        throw exeption
+                    """
                 # hier werden doppelte keys überschrieben
                 #create initial table where keys are from the list of the given html_link
                     init_table[link] = crawler(link)
