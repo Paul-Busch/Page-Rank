@@ -4,11 +4,14 @@ class SearchEngine():
     def __init__(self, word):
         self.word = word
 
-    def get_document(self):
-        # TODO: Madlena
+    def get_document(self, link):
         # gibt das entsprechende dokument (path) für den jeweiligen link zurück
         # konvertiere modified link
-        pass
+        modified_link = str(link)
+        for char in "/\:#.":
+            modified_link = modified_link.replace(char,"")
+        with open (modified_link, "w+" , encoding="utf8") as link_text:
+            return link_text
     
     def get_dict(self):
         # TODO: Paul
