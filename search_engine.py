@@ -1,3 +1,5 @@
+import json 
+
 
 class SearchEngine():
     
@@ -14,9 +16,10 @@ class SearchEngine():
             return link_text
     
     def get_dict(self):
-        # TODO: Paul
-        #json to dict
-        pass
+        with open('sorted.json') as json_file:
+            sorted_dict = json.load(json_file)
+            print(sorted_dict)
+        return sorted_dict
     
     def print_output(self):
         #TODO: all 
@@ -60,4 +63,3 @@ class SearchEngine():
 
 
                 
-

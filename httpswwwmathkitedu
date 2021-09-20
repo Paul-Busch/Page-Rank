@@ -1,0 +1,617 @@
+@import url(https://www
+math
+kit
+edu/extensions/skins/mathCMS/skin
+css); @import url(https://www
+math
+kit
+edu/extensions/smoothness/jquery-ui-1
+10
+3
+custom
+css); 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik KIT - Karlsruher Institut fÃ¼r Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen FakultÃ¤t fÃ¼r Mathematik Start FakultÃ¤t fÃ¼r Mathematik FakultÃ¤t fÃ¼r Mathematik Neue Verfahrensweise ab SoSe21 bei Raumbuchungen fÃ¼r schriftliche PrÃ¼fungen (12
+03
+2021) Get Together, 2
+ Backwettbewerb, Zukunft der digitalen Lehre_16
+04
+2021 Organisation FakultÃ¤tsleitung FakultÃ¤tsleitung Dekan Prodekan Studiendekan GeschÃ¤ftsfÃ¼hrung Sekretariat Ãmter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre ErlÃ¤uterungen zur Umfrage Online-Lehre ModulhandbÃ¼cher Winter 2021/22 Info-Mails zum Wintersemester 2020/21 Planung SoSe 21 und Alternativen zu PrÃ¤senzklausuren (22
+12
+2020) Info-Mails zum Sommersemester 2021 Abteilung fÃ¼r Didaktik Abteilung fÃ¼r Didaktik Angebote fÃ¼r Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut fÃ¼r Algebra und Geometrie Institut fÃ¼r Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut fÃ¼r Analysis Institut fÃ¼r Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe StabilitÃ¤t und InstabilitÃ¤t in FlÃ¼ssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÃFUNGEN - KLAUSURARCHIV Institut fÃ¼r Angewandte und Numerische Mathematik Institut fÃ¼r Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut fÃ¼r Stochastik Institut fÃ¼r Stochastik AG Computational Statistics AG RÃ¤umliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der FakultÃ¤t StudiengÃ¤nge StudiengÃ¤nge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik IngenieurpÃ¤dagogik DiplomstudiengÃ¤nge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen fÃ¼r Studierende Informationen fÃ¼r Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung fÃ¼r Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft ModulhandbÃ¼cher und StudienplÃ¤ne ModulhandbÃ¼cher und StudienplÃ¤ne Archiv PrÃ¼fungsordnungen Vorlesungsangebot Vorlesungsangebot ZukÃ¼nftige Veranstaltungen Archiv Lehre fÃ¼r andere FakultÃ¤ten Studium Sommer 2020 Studium Winter 2020/21 Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Karlsruher Institut fÃ¼r Technologie - Fakultät für Mathematik Aktuelle Termine Termine fÃ¼r Veranstaltungen und wichtige Deadlines News AKTUELL: alle Infos zur Lehre im Wintersemester! Forschung Zentrale Forschungseinrichtungen in der FakultÃ¤t Studium und Lehre Informationen fÃ¼r unsere Studierenden und zu unseren StudiengÃ¤ngen Studie­rende Besucher Alumni Schülerund Lehrer Studien-interessierte Studie­rende Besucher Alumni Schülerund Lehrer Studien­inter­essierte Aktuelle Termine Datum Veranstaltung Modellansatz Podcast: Benchmark OpenLB Veranstaltungskalender News SFB in Karlsruher Gymnasien Ab 30
+08
+ geht unser SFB fÃ¼r 2 Wochen in 5 Karlsruher Gymnasien, um mitzuhelfen, die durch die Corona-Pandemie entstandenen LernlÃ¼cken in Mathematik bei den SchÃ¼ler*innen zu schlieÃen
+ Insgesamt 40 Mitarbeitende engagieren sich als ehrenamtliche LehrkrÃ¤fte fÃ¼r dieses Projekt
+ weiterlesen Studieninformationstag Am 17
+ November gibt es im Rahmen des Studieninformationstags ein vielseitiges mathematisches Programm fÃ¼r SchÃ¼lerinnen und SchÃ¼ler: Schnupper-Vorlesungen, Informationen zum Studium und zu Berufsaussichten aus erster Hand und das SchÃ¼lerlabor Mathematik lÃ¤dt zum Besuch ein
+ weiterlesen FakultÃ¤tslehrpreis Im Rahmen der virtuellen Jahresfeier des KIT wurde der FakultÃ¤tslehrpreis Mathematik 2021 an Mitglieder der Lattice Boltzmann Research Group (LBRG), fuÌr exzellente Lehre im Rahmen der Veranstaltung "Projektorientiertes Softwarepraktikum" verliehen
+ Herzlichen GlÃ¼ckwunsch! Die GrÃ¼nde werden auch in einem Video veranschaulicht
+ weiterlesen Forschung Neben ihren vier Instituten bÃ¼ndelt die FakultÃ¤t ihre ForschungsaktivitÃ¤ten im Sonderforschungsbereich 1173 - Wellenphänomene, dem Graduiertenkolleg 2229 - Asymptotische Invarianten und Limiten von Gruppen und Räumen, sowie dem KIT Zentrum MathSEE - Mathematics in Sciences, Engineering, and Economics
+ SFB 1173 Sonderforschungsbereich 1173 - Wellenphänomene zur Homepage GRK 2229 Graduiertenkolleg 2229 - Asymptotische Invarianten und Limiten von Gruppen und Räumen zur Homepage MathSEE KIT Zentrum MathSEE - Mathematics in Sciences, Engineering, and Economics zur Homepage Institute IAG Institut fÃ¼r Algebra und Geometrie zur Homepage IANA Institut fÃ¼r Analysis zur Homepage IANM Institut fÃ¼r Angewandte und Numerische Mathematik zur Homepage STOCH Institut fÃ¼r Stochastik zur Homepage Studium und Lehre Die FakultÃ¤t bietet je 4 Bachelor- und MasterstudiengÃ¤nge an, dazu kommen zahlreiche Lehrveranstaltungen fÃ¼r Studierende anderer FakultÃ¤ten
+ Bachelor / Master Unsere StudiengÃ¤nge Vorlesungen und Seminare Lehrangebot Studium und Lehre Alle Infos $(function() { $('#minikalender')
+show(); var modalData = {}; modalData['11-17-2021'] = "<p><strong>Studieninformationstag</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+11
+2021<br><a class='link' href='https://studieninformationstag
+sle
+kit
+edu/#' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>3
+ Sitzung des Bereichsrats im Ws 21/22 (Strategieforum CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+11
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws21_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-10-2020'] = "<p><strong>Pausenzeit </strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+12
+2020 - 10
+1
+2020<br><a class='link' href=' https://www
+donbosco-medien
+de/ich-wuensche-dir-zeit/b-1/30' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-04-2020'] = "<p><strong>Jahresfeier 2020</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 4
+12
+2020<br><a class='link' href='http://www
+math
+kit
+edu/seite/jahresfeier/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>FakultÃ¤tsfeier Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 4
+12
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakfest_ws20/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-09-2020'] = "<p><strong>MathSEE Symposium Podiumsdiskussion</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 7
+10
+2020 - 9
+10
+2020<br><a class='link' href='https://www
+youtube
+com/watch?v=I0RHUFKLxoE' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-30-2020'] = "<p><strong>Vorkurs fÃ¼r Mathematiker*innen</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 26
+10
+2020 - 30
+10
+2020<br><a class='link' href='https://www
+math
+kit
+edu/event/vorkurs/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['09-21-2020'] = "<p><strong>SFB Sommerschule 2020</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+9
+2020<br><a class='link' href='http://www
+waves
+kit
+edu/summerschool2020
+php' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>5
+ Sitzung des Senats im Ss 20 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+9
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss20_05/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['03-14-2020'] = "<p><strong>Back Dein pi</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 14
+3
+2020, bis 12:45 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/event/backdeinpi/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>Tag der Mathematik</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 14
+3
+2020<br><a class='link' href='http://www
+math
+kit
+edu/iag3/~herrlich/seite/tdm' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-05-2020'] = "<p><strong>GrÃ¼ndung GAMM SC am KIT</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 5
+2
+2020, 16:00 - 18:00 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/event/gammscka/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>2
+ Sitzung des Bereichsrats im Ss 20 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 5
+2
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-06-2020'] = "<p><strong>Ãffnungszeiten an den Feiertagen</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 24
+12
+2019 - 6
+1
+2020<br><a class='link' href='https://www
+math
+kit
+edu/event/offen/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-08-2021'] = "<p><strong>3
+ Vortrag im Didaktikkolloquium im SS 2021</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 8
+7
+2021, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ss21_3/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-06-2021'] = "<p><strong>1
+ Vortrag im Didaktikkolloquium im SS 2021</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 6
+5
+2021, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ss21_1/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-17-2021'] = "<p><strong>2
+ Vortrag im Didaktikkolloquium im SS 2021</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+6
+2021, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ss21_2/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-28-2021'] = "<p><strong>4
+ Vortrag im Didaktikkolloquium im WS 2020/2021</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
+1
+2021, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws20-21_4/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-03-2020'] = "<p><strong>2
+ Vortrag im Didaktikkolloquium im WS 2020/2021</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 3
+12
+2020, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws20-21_2/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-12-2020'] = "<p><strong>1
+ Vortrag im Didaktikkolloquium im WS 2020/2021</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 12
+11
+2020, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws20-21_1/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-07-2020'] = "<p><strong>1
+ Vortrag im Didaktikkolloquium im SS 2020 - ENTFÃLLT </strong><p style='line-height: 20px;'><strong>Zeit:</strong> 7
+5
+2020, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ss20_1/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-18-2020'] = "<p><strong>2
+ Vortrag im Didaktikkolloquium im SS 2020 - ENTFÃLLT</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
+6
+2020, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ss20_2/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-09-2020'] = "<p><strong>Vortrag im Didaktikkolloquium im SS 2020</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
+7
+2020, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ss20_3/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-30-2020'] = "<p><strong>4
+ Vortrag im Didaktikkolloquium im WS 19/20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 30
+1
+2020, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws1920_4/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-09-2020'] = "<p><strong>3
+ Vortrag im Didaktikkolloquium im WS 19/20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
+1
+2020, 18:15 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws1920_3/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-29-2021'] = "<p><strong>PDE-Seminar: Vortrag von Gianluca Crippa</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
+4
+2021, 14:00 Uhr - 29
+4
+2021, 15:00 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/pde/event/pdesem_crippa/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-16-2020'] = "<p><strong>PDE-Seminar: Vortrag von Michael Herty fÃ¤llt leider aus</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 16
+1
+2020, 14:00 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/pde/event/pdesem_herty/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>PDE-Seminar: Vortrag von Michael Herty</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 16
+1
+2020, 14:00 - 15:30 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/iana3/lehre/mi1w-forschsemdauer/event/vortagherty/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-11-2021'] = "<p><strong>Oberseminar Funktionalanalysis: Vortrag Michela Egidi</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 11
+5
+2021, 14:00 - 15:00 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/iana3/lehre/mi1w-forschsemdauer/event/vortragegidi/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-23-2021'] = "<p><strong>Vortrag Alexander Wittenstein</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 23
+2
+2021, 11:00 - 12:00 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/iana3/lehre/mi1w-forschsemdauer/event/vortragwittgen/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-21-2020'] = "<p><strong>Oberseminar Funktionalanalysis: Vortrag von Willem van Zuijlen</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+1
+2020, 14:00 - 15:30 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/iana3/lehre/mi1w-forschsemdauer/event/talkzuijlen/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-14-2020'] = "<p><strong>Oberseminar Funktionalanalysis: Vortrag von Alex Amenta</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 14
+1
+2020, 14:00 - 15:30 Uhr<br><a class='link' href='https://www
+math
+kit
+edu/iana3/lehre/mi1w-forschsemdauer/event/talkamenta/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-10-2021'] = "<p><strong>FakultÃ¤tsfeier Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 10
+12
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakfest_ws21/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-20-2021'] = "<p><strong>3
+Sitzung des Senats im Ws 21/22 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 20
+12
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws21_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-15-2021'] = "<p><strong>2
+Sitzung des Senats im Ws 21/22 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 15
+11
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-18-2021'] = "<p><strong>1
+Sitzung des Senats im Ws 21/22 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
+10
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws21_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>Vorlesungsbeginn Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
+10
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/vb_ws2122/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-08-2021'] = "<p><strong>4
+ Sitzung des Bereichsrats im Ws 21/22 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 8
+12
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws21_04/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-06-2021'] = "<p><strong>1
+ Sitzung des Bereichsrats im Ws 21/22 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 6
+10
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws21_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-03-2021'] = "<p><strong>2
+ Sitzung des Bereichsrats im Ws 21/22 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 3
+11
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-01-2021'] = "<p><strong>2
+ Sitzung des FakultÃ¤tsrats im Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 1
+12
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ws21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-27-2021'] = "<p><strong>1
+ Sitzung des FakultÃ¤tsrats im Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 27
+10
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ws21_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-18-2021'] = "<p><strong>4
+ Sitzung des Senats im Ws 20/21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
+1
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws20_04/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-02-2020'] = "<p><strong>Vorlesungsbeginn Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 2
+11
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/vb_ws2021/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-19-2021'] = "<p><strong>4
+ Sitzung des Senats im Ss 21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 19
+7
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss21_04/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['09-20-2021'] = "<p><strong>5
+ Sitzung des Senats im Ss 21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 20
+9
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss21_05/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-21-2021'] = "<p><strong>3
+ Sitzung des Senats im Ss 21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+6
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss21_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-17-2021'] = "<p><strong>2
+ Sitzung des Senats im Ss 21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+5
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-19-2021'] = "<p><strong>1
+ Sitzung des Senats im Ss 21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 19
+4
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss21_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['09-08-2021'] = "<p><strong>6
+ Sitzung des Bereichsrats im Ss21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 8
+9
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss21_06/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-28-2021'] = "<p><strong>5
+ Sitzung des Bereichsrats im Ss21 (Strategieforum CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
+7
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss21_05/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-07-2021'] = "<p><strong>4
+ Sitzung des Bereichsrats im Ss21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 7
+7
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss21_04/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-02-2021'] = "<p><strong>3
+ Sitzung des Bereichsrats im Ss21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 2
+6
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss21_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-05-2021'] = "<p><strong>2
+ Sitzung des Bereichsrats im Ss21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 5
+5
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-21-2021'] = "<p><strong>1
+ Sitzung des Bereichsrats im Ss21 (Strategieforum CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+4
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss21_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-21-2021'] = "<p><strong>3
+ Sitzung des FakultÃ¤tsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+7
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ss21_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-09-2021'] = "<p><strong>2
+ Sitzung des FakultÃ¤tsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
+6
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ss21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-12-2021'] = "<p><strong>Vorlesungsbeginn Ss21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 12
+4
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/vb_ss21/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-28-2021'] = "<p><strong>1
+ Sitzung des FakultÃ¤tsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
+4
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ss21_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-24-2021'] = "<p><strong>Vorlesungsende Ss21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 24
+7
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/ve_ss21/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['03-15-2021'] = "<p><strong>6
+ Sitzung des Senats im Ws 20/21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 15
+3
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws20_06/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-15-2021'] = "<p><strong>5
+ Sitzung des Senats im Ws 20/21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 15
+2
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws20_05/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-21-2020'] = "<p><strong>3
+ Sitzung des Senats im Ws 20/21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+12
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-16-2020'] = "<p><strong>2
+ Sitzung des Senats im Ws 20/21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 16
+11
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-19-2020'] = "<p><strong>1
+ Sitzung des Senats im Ws 20/21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 19
+10
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-02-2020'] = "<p><strong>4
+ Sitzung des Bereichsrats im Ws 20/21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 2
+12
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws20_04/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-18-2020'] = "<p><strong>3
+ Sitzung des Bereichsrats im Ws 20/21 (Strategieforum CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
+11
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-04-2020'] = "<p><strong>2
+ Sitzung des Bereichsrats im Ws 20/21 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 4
+11
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-07-2020'] = "<p><strong>1
+ Sitzung des Bereichsrats im Ws 20/21 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 7
+10
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ws20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-17-2021'] = "<p><strong>3
+ Sitzung des FakultÃ¤tsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+2
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ws20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-09-2020'] = "<p><strong>2
+ Sitzung des FakultÃ¤tsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
+12
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ws20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-28-2020'] = "<p><strong>1
+ Sitzung des FakultÃ¤tsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
+10
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ws20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-20-2021'] = "<p><strong>Vorlesungsende Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 20
+2
+2021<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/ve_ws2021/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-17-2020'] = "<p><strong>Sommerfest</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+7
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakfest_ss20/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-20-2020'] = "<p><strong>4
+ Sitzung des Senats im Ss 20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 20
+7
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss20_04/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-15-2020'] = "<p><strong>3
+ Sitzung des Senats im Ss 20 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 15
+6
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-18-2020'] = "<p><strong>2
+ Sitzung des Senats im Ss 20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
+5
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-20-2020'] = "<p><strong>1
+ Sitzung des Senats im Ss 20 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 20
+4
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ss20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>Vorlesungsbeginn Ss 2020</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 20
+4
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/vb_ss20/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['09-09-2020'] = "<p><strong>8
+ Sitzung des Bereichsrats im Ss 20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
+9
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_08/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-29-2020'] = "<p><strong>7
+ Sitzung des Bereichsrats im Ss 20 (evtl
+ Strategieforum)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
+7
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_07/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-15-2020'] = "<p><strong>6
+ Sitzung des Bereichsrats im Ss 20 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 15
+7
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_06/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-10-2020'] = "<p><strong>5
+ Sitzung des Bereichsrats im Ss 20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 10
+6
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_05/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-06-2020'] = "<p><strong>4
+ Sitzung des Bereichsrats im Ss 20 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 6
+5
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_04/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['03-04-2020'] = "<p><strong>3
+ Sitzung des Bereichsrats im Ss 20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 4
+3
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-15-2020'] = "<p><strong>1
+ Sitzung des Bereichsrats im Ss 20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 15
+1
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/berrat_ss20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-22-2020'] = "<p><strong>3
+ Sitzung des FakultÃ¤tsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 22
+7
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ss20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-03-2020'] = "<p><strong>2
+ Sitzung des FakultÃ¤tsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 3
+6
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ss20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-29-2020'] = "<p><strong>1
+ Sitzung des FakultÃ¤tsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
+4
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ss20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-24-2020'] = "<p><strong>Vorlesungsende Ss 2020</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 24
+7
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/ve_ss20/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['03-16-2020'] = "<p><strong>7
+Sitzung des Senats im Ws 19/20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 16
+3
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws19_07/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-17-2020'] = "<p><strong>6
+Sitzung des Senats im Ws 19/20 (CN)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+2
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws19_06/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>5
+Sitzung des Senats im Ws 19/20 (CS)</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+2
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/senat_ws19_05/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-08-2020'] = "<p><strong>Vorlesungsende Ws 19/20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 8
+2
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/ve_ws1920/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-29-2020'] = "<p><strong>3
+Sitzung des FakultÃ¤tsrats im Ws 19/20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
+1
+2020<br><a class='link' href='https://www
+math
+kit
+edu/fakmath/event/fakrat_ws19_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; var enabledDays = ["11-17-2021", "01-10-2020", "12-04-2020", "10-09-2020", "10-30-2020", "09-21-2020", "03-14-2020", "03-14-2020", "02-05-2020", "01-06-2020", "07-08-2021", "05-06-2021", "06-17-2021", "01-28-2021", "12-03-2020", "11-12-2020", "05-07-2020", "06-18-2020", "07-09-2020", "01-30-2020", "01-09-2020", "04-29-2021", "01-16-2020", "05-11-2021", "02-23-2021", "01-16-2020", "01-21-2020", "01-14-2020", "12-10-2021", "12-20-2021", "11-15-2021", "10-18-2021", "12-08-2021", "11-17-2021", "10-06-2021", "11-03-2021", "12-01-2021", "10-27-2021", "10-18-2021", "01-18-2021", "11-02-2020", "07-19-2021", "09-20-2021", "06-21-2021", "05-17-2021", "04-19-2021", "09-08-2021", "07-28-2021", "07-07-2021", "06-02-2021", "05-05-2021", "04-21-2021", "07-21-2021", "06-09-2021", "04-12-2021", "04-28-2021", "07-24-2021", "12-04-2020", "03-15-2021", "02-15-2021", "12-21-2020", "11-16-2020", "10-19-2020", "12-02-2020", "11-18-2020", "11-04-2020", "10-07-2020", "02-17-2021", "12-09-2020", "10-28-2020", "02-20-2021", "07-17-2020", "09-21-2020", "07-20-2020", "06-15-2020", "05-18-2020", "04-20-2020", "09-09-2020", "07-29-2020", "07-15-2020", "06-10-2020", "05-06-2020", "03-04-2020", "02-05-2020", "01-15-2020", "07-22-2020", "06-03-2020", "04-29-2020", "07-24-2020", "04-20-2020", "03-16-2020", "02-17-2020", "02-17-2020", "02-08-2020", "01-29-2020"]; $('#datepicker')
+datepicker({ dateFormat: 'mm-dd-yy', onSelect: function(dateText, inst) { $('
+ui-dialog-title')
+html('Veranstaltungen vom ' + ('0' + (inst
+currentDay))
+slice(-2) + '
+' + ('0' + (inst
+currentMonth + 1))
+slice(-2) + '
+' + inst
+currentYear); $('
+ui-dialog-content')
+html(modalData[dateText]); $('#dialog-modal')
+dialog('open'); console
+log(inst); }, beforeShowDay: function(d) { var dmy = (d
+getMonth()+1); if(d
+getMonth()<9) dmy='0'+dmy; dmy+= '-'; if(d
+getDate()<10) dmy+='0'; dmy+=d
+getDate() + '-' + d
+getFullYear(); if (jQuery
+inArray(dmy, enabledDays) != -1) { return [true]; } else{ return [false]; } } }); $
+datepicker
+setDefaults($
+extend($
+datepicker
+regional['de'])); $('#dialog-modal')
+dialog({ autoOpen: false, width: 500, modal: true }); }); FakultÃ¤t fÃ¼r Mathematik D-76128 Karlsruhe Tel
+: +49 721 608-43800 E-Mail: dekanatTzh1âmath
+kit
+edu RSS-Feed KIT â Die ForschungsuniversitÃ¤t in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }
