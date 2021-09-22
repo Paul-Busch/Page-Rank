@@ -36,9 +36,9 @@ class SearchEngine():
         print(link,"\n",line)"""
 
 
-    def get_list_of_lines(self, data, word):
+    def get_list_of_lines(self, data):
         '''
-        params: data --> html text, word --> string
+        params: data --> html text
         returns: lst_of_lines --> list
         This functions returns a list that includes all lines that include the relevant word
         '''
@@ -47,7 +47,7 @@ class SearchEngine():
         with open(data) as f:
             lines = f.readlines()
             for line in lines:
-                if word in line:
+                if self.word in line:
                     lst_of_lines.append(line)
         return lst_of_lines
 
@@ -66,4 +66,10 @@ class SearchEngine():
                 return self.dictionary_final
 
 
+
+Test1 = False
+
+if Test1:
+    lst = SearchEngine("Hallo").get_list_of_lines("test.txt")
+    print(lst)
                 
