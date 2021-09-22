@@ -1,6 +1,5 @@
 import json 
 
-
 class SearchEngine():
     
     def __init__(self, word):
@@ -16,6 +15,10 @@ class SearchEngine():
             return link_text
     
     def get_dict(self):
+        '''
+        params: none
+        returns: dictonary including every outgoing/ ingoing links as keys and their rank as values in terms of the eigenvalue
+        '''
         with open('sorted.json') as json_file:
             sorted_dict = json.load(json_file)
             print(sorted_dict)
@@ -33,25 +36,26 @@ class SearchEngine():
         print(link,"\n",line)"""
 
 
-    def get_list_of_lines(self,data, word):
+    def get_list_of_lines(self, data, word):
+        '''
+        params: data --> html text, word --> string
+        returns: lst_of_lines --> list
+        This functions returns a list that includes all lines that include the relevant word
+        '''
         # TODO: Paul
-        # gibt eine liste der relevanten zeilen zurück
-        pass 
-
-        """with open(data) as f:
+        lst_of_lines = []
+        with open(data) as f:
             lines = f.readlines()
             for line in lines:
                 if word in line:
-                    print(line)
-                    return line"""
+                    lst_of_lines.append(line)
+        return lst_of_lines
 
     def get_dict_of_lines(self):
         doc = get_document(link)
         list_of_lines = get_list_of_lines(doc) #Hab das word weggemacht, lieber self.word verweden
         if list_of_lines:
-            self.dictionary_final[key] = [self.d2[key], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu
-        
-        
+            self.dictionary_final[key] = [self.d2[key], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu 
 
     def paralleled(self):
         with futures.ProcessPoolExecutor() as ex:

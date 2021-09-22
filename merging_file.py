@@ -120,7 +120,6 @@ class Table():
         # returns table with certain depth (Suchtiefe)
         table = self.create_init_table()
         i = 1
-        print("ich bin hier 3")
         for i in range(1,depth):
             print(i)
             self.update_table(table)
@@ -133,6 +132,12 @@ class EvalMatrix():
         self.table = table
         
     def calculate_weight(self, key_x, key_y):
+        '''
+        params: key_x --> int, key_y --> int
+        returns: weight of for link_x w.r.t. link_y, 
+        the weight is calculated with: number_of_ingoing_links_from_page_y/outgoing_links_of_page_x
+        '''
+
         # key_x is the html_link on the horizontal in the A matrix (x-axis)
         # key_y is the html_link on the vertical in the A matrix (y-axis)
 
@@ -142,7 +147,7 @@ class EvalMatrix():
         # calculate x:
         # the counter represents the number of all outgoing links 
         counter = 0
-        for link in self.table[key_x]:
+        for link in self.table[key_x]:     #TODO Paul: macht das Sinn so? (aber tests waren gut)
             if link == key_y:
                 counter += 1
          
@@ -152,6 +157,11 @@ class EvalMatrix():
             return counter/L           
 
     def build_matrix_A(self):
+        '''
+        params: None
+        returns: Matrix A
+        Matrix A represents the connections between the links
+        '''
         sorted_keys = sorted(self.table)
 
         # initialize A as a zero matrix
@@ -170,6 +180,11 @@ class EvalMatrix():
         return A
     
     def calculate_matrix_M(self):
+        '''
+        params: None
+        returns: Matrix M
+        Matrix M is used to calculate the eigenvectors of the matrix A in a numeric way
+        '''
         B = np.ones((len(self.table), len(self.table)))
         M = (1 - 0.15) * self.build_matrix_A() + (0.15 / len(self.table)) * B
         return M 
@@ -196,6 +211,11 @@ class EvalMatrix():
         return d2
 
     def save_json(self):
+        '''
+        params: none
+        returns: none
+        This function saves the dict including the links as keys and their rank as values
+        '''
         dic = self.sort_links()
         with open("sorted.json", "w") as outfile:
             json.dump(dic, outfile)
