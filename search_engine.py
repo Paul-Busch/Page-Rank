@@ -35,10 +35,9 @@ class SearchEngine():
         search_for_word(word, data, link)
         print(link,"\n",line)"""
 
-
     def get_list_of_lines(self, data):
         '''
-        params: data --> html text
+        params: data --> .txt data
         returns: lst_of_lines --> list
         This functions returns a list that includes all lines that include the relevant word
         '''
@@ -51,12 +50,14 @@ class SearchEngine():
                     lst_of_lines.append(line)
         return lst_of_lines
 
+    #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
     def get_dict_of_lines(self):
         doc = get_document(link)
         list_of_lines = get_list_of_lines(doc) #Hab das word weggemacht, lieber self.word verweden
         if list_of_lines:
             self.dictionary_final[key] = [self.d2[key], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu 
-
+   
+    #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
     def paralleled(self):
         with futures.ProcessPoolExecutor() as ex:
             for key in self.d2:
