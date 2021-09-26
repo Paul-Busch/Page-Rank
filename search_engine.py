@@ -1,19 +1,28 @@
+import json 
 
 class SearchEngine():
     
     def __init__(self, word):
         self.word = word
 
-    def get_document(self):
-        # TODO: Madlena
+    def get_document(self, link):
         # gibt das entsprechende dokument (path) für den jeweiligen link zurück
         # konvertiere modified link
-        pass
+        modified_link = str(link)
+        for char in "/\:#.":
+            modified_link = modified_link.replace(char,"")
+        with open (modified_link, "w+" , encoding="utf8") as link_text:
+            return link_text
     
     def get_dict(self):
-        # TODO: Paul
-        #json to dict
-        pass
+        '''
+        params: none
+        returns: dictonary including every outgoing/ ingoing links as keys and their rank as values in terms of the eigenvalue
+        '''
+        with open('sorted.json') as json_file:
+            sorted_dict = json.load(json_file)
+            print(sorted_dict)
+        return sorted_dict
     
     def print_output(self):
         #TODO: all 
@@ -26,27 +35,29 @@ class SearchEngine():
         search_for_word(word, data, link)
         print(link,"\n",line)"""
 
-
-    def get_list_of_lines(self,data, word):
+    def get_list_of_lines(self, data):
+        '''
+        params: data --> .txt data
+        returns: lst_of_lines --> list
+        This functions returns a list that includes all lines that include the relevant word
+        '''
         # TODO: Paul
-        # gibt eine liste der relevanten zeilen zurück
-        pass 
-
-        """with open(data) as f:
+        lst_of_lines = []
+        with open(data) as f:
             lines = f.readlines()
             for line in lines:
-                if word in line:
-                    print(line)
-                    return line"""
+                if self.word in line:
+                    lst_of_lines.append(line)
+        return lst_of_lines
 
+    #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
     def get_dict_of_lines(self):
         doc = get_document(link)
         list_of_lines = get_list_of_lines(doc) #Hab das word weggemacht, lieber self.word verweden
         if list_of_lines:
-            self.dictionary_final[key] = [self.d2[key], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu
-        
-        
-
+            self.dictionary_final[key] = [self.d2[key], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu 
+   
+    #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
     def paralleled(self):
         with futures.ProcessPoolExecutor() as ex:
             for key in self.d2:
@@ -56,5 +67,10 @@ class SearchEngine():
                 return self.dictionary_final
 
 
-                
 
+Test1 = False
+
+if Test1:
+    lst = SearchEngine("Hallo").get_list_of_lines("test.txt")
+    print(lst)
+                
