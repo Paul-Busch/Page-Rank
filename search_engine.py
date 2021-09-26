@@ -57,33 +57,35 @@ class SearchEngine():
 
     #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
     def get_dict_of_lines(self, link, d2):
-        doc = get_document(link)
-        list_of_lines = get_list_of_lines(doc)
+        doc = self.get_document(link)
+        list_of_lines = self.get_list_of_lines(doc)
         if list_of_lines:
             self.dictionary_final[link] = [self.d2[link], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu 
    
     #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
     def paralleled(self):
-        d2 = get_dict()
+        d2 = self.get_dict()
         with futures.ProcessPoolExecutor() as ex:
-            for key in self.d2:
-                ex.submit(get_dict_of_lines, key, d2)
+            for key in d2:
+                ex.submit(self.get_dict_of_lines, key, d2)
             if ex.done():
                 self.dictionary_final = {k: v for k, v in sorted(self.dictionary_final.items(), key=lambda item: item[1])}
                 #return self.dictionary_final
 
 
 
-Test1 = False
-Test2 = True
+Test1 = True
+Test2 = False
 
 if Test1:
-    lst = SearchEngine("Hallo").get_list_of_lines("test.txt")
+    t1 = SearchEngine("Hallo")
+    
+    lst = t1.get_list_of_lines("Page-Rank\test.txt")
     print(lst)
 
-if Test2:
+"""if Test2:
     printout = SearchEngine("Mathe").get_list_of_lines("sorted.txt")
-    print(printout)
+    print(printout)"""
 
 
                 
