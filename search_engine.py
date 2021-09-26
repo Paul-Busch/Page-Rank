@@ -1,9 +1,11 @@
 import json 
+from concurrent import futures
 
 class SearchEngine():
     
     def __init__(self, word):
         self.word = word
+        self.dictionary_final = {}
 
     def get_document(self, link):
         # gibt das entsprechende dokument (path) für den jeweiligen link zurück
@@ -29,7 +31,10 @@ class SearchEngine():
         # loop über dict_values und schaue ob der jeweilige link keine leere liste in dic_lines aufweist 
         # liste mit relevanten html links -> sortiert 
         # unter jedem link (entweder fett oder eingerückt) die relevanten zeilen ausgeben
-        pass
+        self.paralleled()
+        for link in self.dictionary_final:
+            #if paralled().value()[1] =! none:
+            print(link, self.dictionary_final[link][1])
 
     """def print_output(word, data, link):
         search_for_word(word, data, link)
@@ -51,26 +56,34 @@ class SearchEngine():
         return lst_of_lines
 
     #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
-    def get_dict_of_lines(self):
+    def get_dict_of_lines(self, link, d2):
         doc = get_document(link)
-        list_of_lines = get_list_of_lines(doc) #Hab das word weggemacht, lieber self.word verweden
+        list_of_lines = get_list_of_lines(doc)
         if list_of_lines:
-            self.dictionary_final[key] = [self.d2[key], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu 
+            self.dictionary_final[link] = [self.d2[link], list_of_lines] #self.d2[key] greif auf die Wichtigkeit zu 
    
     #TODO Sontraud: Funktion testen --> d2 ist instanz aus anderer Klasse
     def paralleled(self):
+        d2 = get_dict()
         with futures.ProcessPoolExecutor() as ex:
             for key in self.d2:
-                ex.submit(get_dict_of_lines, key)
+                ex.submit(get_dict_of_lines, key, d2)
             if ex.done():
                 self.dictionary_final = {k: v for k, v in sorted(self.dictionary_final.items(), key=lambda item: item[1])}
-                return self.dictionary_final
+                #return self.dictionary_final
 
 
 
 Test1 = False
+Test2 = True
 
 if Test1:
     lst = SearchEngine("Hallo").get_list_of_lines("test.txt")
     print(lst)
+
+if Test2:
+    printout = SearchEngine("Mathe").get_list_of_lines("sorted.txt")
+    print(printout)
+
+
                 
