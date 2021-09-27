@@ -1,4 +1,4 @@
-div#head-image{ background-image:url('/img/intern/17_V2
+div#head-image{ background-image:url('/img/intern/03_V2
 jpg'); } document
 documentElement
 classList
@@ -98,4 +98,4 @@ scienceweek
 kit
 edu
  Besuchen Anfahrt Campusplan Veranstaltungen KIT-Shop Bewerben Stellenangebote Studiengänge Ausbildungsplätze Promotionsprogramme Presse Presseinformationen Expertenvermittlung Newsletter Pressekontakt Kontakt Karlsruher Institut für Technologie Tel
-: +49 721 608-0 Fax: +49 721 608-44290 E-Mail: infoDfk1∂kit edu Anschrift Instagram Profil Facebook Profil Twitter Kanal Youtube Profil Mastodon Profil RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Leichte Sprache Gebärdensprache Impressum Datenschutz Barrierefreiheit Sitemap Intranet KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }
+: +49 721 608-0 Fax: +49 721 608-44290 E-Mail: infoQmp2∂kit edu Anschrift Instagram Profil Facebook Profil Twitter Kanal Youtube Profil Mastodon Profil RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Leichte Sprache Gebärdensprache Impressum Datenschutz Barrierefreiheit Sitemap Intranet KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }
