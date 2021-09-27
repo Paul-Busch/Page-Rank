@@ -190,6 +190,10 @@ class EvalMatrix():
         return M 
 
     def calculate_vector_iteration(self):
+        '''
+        params: None
+        returns: eigenvector x_k1 to eigenvalue 1
+        '''
         M = self.calculate_matrix_M()
         # start with x_0
         x_k = np.ones(len(self.table))
@@ -201,6 +205,10 @@ class EvalMatrix():
         return x_k1
 
     def sort_links(self):
+        '''
+        params: None
+        returns: dictionary with links as keys and their weight as values sorted by weight
+        '''
         d = {}
         x = self.calculate_vector_iteration()
         links = list(self.table.keys())
@@ -221,6 +229,10 @@ class EvalMatrix():
             json.dump(dic, outfile)
 
     def save(self):
+        '''
+        params: none
+        returns: none
+        saves dict of links and their weights'''
         with open ('sorted.txt', 'w') as sl:
             sl.write('{0}\n'.format(', '.join(str(n) for n in self.sort_links())))
 

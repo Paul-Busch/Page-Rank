@@ -8,8 +8,10 @@ class SearchEngine():
         self.dictionary_final = {}
 
     def get_document(self, link):
-        # gibt das entsprechende dokument (path) für den jeweiligen link zurück
-        # konvertiere modified link
+        '''
+        params: link
+        returns: document corresponding to link
+        '''
         modified_link = str(link)
         for char in "/\:#.":
             modified_link = modified_link.replace(char,"")
