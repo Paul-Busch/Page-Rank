@@ -114,10 +114,10 @@ if Test2:
     printout = SearchEngine("Mathe").get_list_of_lines("sorted.txt")
     print(printout)
 
-search_engine = SearchEngine("KIT")
+#search_engine = SearchEngine("KIT")
 
 
-search_engine.print_output()
+#search_engine.print_output()
 
 
 
