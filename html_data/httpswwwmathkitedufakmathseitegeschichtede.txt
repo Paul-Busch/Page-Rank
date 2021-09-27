@@ -1,0 +1,124 @@
+@import url(https://www
+math
+kit
+edu/extensions/skins/mathCMS/skin
+css); @import url(https://www
+math
+kit
+edu/extensions/smoothness/jquery-ui-1
+10
+3
+custom
+css); 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik - Geschichte der Fakultät KIT - Karlsruher Institut für Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen Fakultät für Mathematik Start Fakultät für Mathematik Fakultät für Mathematik Organisation Fakultätsleitung Fakultätsleitung Dekan Prodekan Studiendekan Geschäftsführung Sekretariat Ämter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abteilung für Didaktik Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut für Algebra und Geometrie Institut für Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut für Analysis Institut für Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe Stabilität und Instabilität in Flüssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÜFUNGEN - KLAUSURARCHIV Institut für Angewandte und Numerische Mathematik Institut für Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut für Stochastik Institut für Stochastik AG Computational Statistics AG Räumliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der Fakultät Studiengänge Studiengänge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik Ingenieurpädagogik Diplomstudiengänge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen für Studierende Informationen für Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung für Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft Modulhandbücher und Studienpläne Modulhandbücher und Studienpläne Archiv Prüfungsordnungen Vorlesungsangebot Vorlesungsangebot Zukünftige Veranstaltungen Archiv Lehre für andere Fakultäten Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Startseite Fakultät für Mathematik Institute Forschung Studium und Lehre Personen Fakultät für Mathematik Organisation Fakultätsleitung Ämter und Kommissionen Infos Studiendekan Abteilung für Didaktik Rechnerabteilung Fachbibliothek Mathematik Podcast Geschichte Anreise Kontakt Kooperationen Geschichte Geschichte der Fakultät Die Mathematik in Karlsruhe bis 1945 Die Mathematik in der Anfangszeit der Polytechnischen Schule (Gründung 1825) war ganz auf die praktischen Bedürfnisse der Ingenieure und Architekten ausgerichtet
+ Daher kam naturgemäß der Darstellenden Geometrie eine besondere Bedeutung zu
+ Der erste Lehrer der Geometrie war Guido Schreiber, ein ehemaliger Offizier in der Großherzoglichen - Badischen Artillerie
+ Sein Nachfolger wurde Christian Wiener, der die Geometrie in Karlsruhe fast ein halbes Jahrhundert hervorragend vertrat
+ Schreiber und Wiener wurden beide als Verfasser wichtiger Lehrbücher über Darstellende Geometrie bekannt
+ Jacob Lüroth (1844 - 1910) Die ersten beiden bedeutenden Lehrer auf den mathematischen Lehrstühlen (der zweite wurde 1876 neu geschaffen) waren von 1868 - 1880 Jacob Lüroth und von 1876 - 1902 Ernst Schröder
+ Lüroths Hauptarbeitsgebiet war die Geometrie, einschließlich der Differentialgeometrie und Analysis situs
+ Schröder war ein Pionier der Logik und brachte in seinem Buch; "Der Operationskreis des Logikkalküls"; (Karlsruhe, 1877) eine elegante und axiomatische Darstellung der Booleschen Logik
+ Besonders bekannt geworden ist er jedoch durch sein dreibändiges Werk; "Algebra der Logik"; (Leipzig, 1890, 1891, 1895), das zu seiner Zeit ein Standardwerk der formalen Logik war, jedoch schon zu Beginn des 20
+ Jahrhunderts an Aktualität verlor
+ Alfred Clebsch (1833 - 1872) Neben dem Lehrstuhl für Geometrie und den beiden Mathematischen Lehrstühlen gab es noch einen Lehrstuhl für Mechanik und Synthetische Geometrie (ab 1902: Theoretische Mechanik, ab 1923: Mechanik und Angewandte Mathematik)
+ Der erste bedeutende Inhaber war von 1858 - 1863 Alfred Clebsch; er kam aus der Königsberger Schule von Franz Neumann
+ Von Königsberg brachte er viele Neuerungen mit, u
+a
+ die Einrichtung des mathematischen Kolloquiums
+ Aus seiner kurzen Wirkungszeit in Karlsruhe stammt das Buch; "Theorie der Elasticität fester Körper"; (Leipzig, 1862)
+ Der Nachfolger von Clebsch auf dem Lehrstuhl für Mechanik in Karlsruhe war Wilhelm Schell, der gut 40 Jahre hier wirkte
+ Von ihm stammt das erste ausführliche Lehrbuch der Mechanik in deutscher Sprache mit dem Titel; "Theorie der Bewegung und der Kräfte" (Leipzig, 1870)
+ Paul Stäckel (1862 - 1919) Während im 19
+ Jahrhundert die Berufungspolitik hauptsächlich auf die Bedürfnisse der technischen Fächer ausgerichtet war (insbesondere durch die Bedeutung der Geometrie), wurden ab der Jahrhundertwende mit Friedrich Schur, Adolf Krazer, Paul Stäckel, Rudolf Fueter und Karl Boehm reine Mathematiker berufen, deren Lehr- und Forschungsgebiete auch an eine (klassische) Universität gepaßt hätten
+ Etwa zwanzig Jahre lang war Karl Heun auf dem Lehrstuhl für Theoretische Mechanik der einzige Vertreter der angewandten Richtungen
+ Er verstand es besonders, junge Talente von anderen Universitäten an seinen Lehrstuhl als Assistenten zu ziehen
+ So waren Georg Hamel von 1902 - 1905 und Fritz Noether, der Bruder von Emmy Noether, von 1909 - 1917 Assistenten bei Heun
+ Ab den dreißiger Jahren änderte sich die Situation wieder durch die Berufung von Gerhard Haenzel und Kurt von Sanden, die beide ursprünglich Ingenieure gewesen waren
+ Haenzel war zuvor Privatdozent an der TH Berlin und hatte dort auch zum Dr
+ Ing
+ promoviert
+ Die mathematische Promotion holte er, nachdem er schon lange Jahre ordentlicher Professor der Geometrie war, 1940 bei Wilhem Süß in Freiburg nach
+ 1943 erhielt Haenzel einen Ruf nach Münster, den er zwar annahm, dem er aber nicht mehr folgen konnte, da er 1944 durch Denunziation in den Freitod getrieben wurde
+ Der Lehrstuhl für Theoretische Mechanik wurde 1923 umbenannt in "Lehrstuhl für Mechanik und Angewandte Mathematik"; und mit Kurt von Sanden besetzt
+ Von Sanden war zuvor Entwicklungsingenieur bei der Friedrich - Krupp - Germania - Werft in Kiel und hielt in Karlsruhe auch regelmäßig Vorlesungen über Dieselmaschinen ab
+ 1927 wechselte er auf den Lehrstuhl von Krazer, der den Namen "Lehrstuhl für Mathematik und Mathematische Technik"; erhielt
+ 1936 verließ v
+ Sanden die Hochschule und ging an seine alte Werft, da er jetzt offensichtlich als Experte für den U-Bootbau wichtiger geworden war
+ Auf den Mechanik-Lehrstuhl kam von 1928 - 1937 Theodor Pöschl, er wurde 1937 aus politischen Gründen in den Ruhestand versetzt, übernahm jedoch nach dem 2
+ Weltkrieg sein altes Amt wieder
+ Die Mathematik in Karlsruhe nach 1945 Die Wiederaufnahme des Lehr- und Forschungsbetriebes an der Technischen Hochschule Karlsruhe nach dem zweiten Weltkrieg war, insbesondere in der Mathematik, wesentlich beeinflusst durch die enormen Zerstörungen der Stadt und der Technischen Hochschule bis zum Ende des Krieges
+ Der Lehrbetrieb konnte nur langsam wieder aufgenommen werden und alle Mitglieder der Technischen Universität, insbesondere auch die Studierenden, mussten sich bei der Beseitigung der Schäden und am Wiederufbau beteiligen
+ Offiziell wurde der Vorlesungsbetrieb zum Sommersemester 1946 wieder aufgenommen
+ Zu diesem Zeitpunkt war die Mathematik Teil der aus zwei Abteilungen bestehenden Fakultät I für Natur- und Geisteswissenschaften
+ Für das Sommersemester 1946 findet man im Personalverzeichnis die folgenden Ordinariate: · N
+N
+ (Mathematik) · N
+N
+ (Mathematik und Geometrie) · Theodor Pöschl (Mechanik und Angewandte Mathematik)
+ Daneben ist Fritz Reutter ( 1911-1990) als ausserplanmässiger Professor verzeichnet
+ Im Wintersemester 1946/47 findet man außerdem · Karl Klotter (Mathematik und ihre technischen Anwendungen)
+ Ab 1947 vertrat der Geometer Karl Strubecker (1908-1991), aus Strassburg kommend, zunächst ein Ordinariat für Mathematik, auf welches er 1948 berufen wurde
+ Der Göttinger Funktionentheoretiker Hans Wittich (1911 - 1984) las schon 1946 als Gastdozent eine Vorlesung "Höhere Mathematik I" und wurde im Jahre 1947 zunächst als a
+o
+ Professor berufen
+ Im Jahre 1952 übernahm er ein Ordinariat für Mathematik
+ Im Jahre 1953 übernahm der Privatdozent Johannes Weissinger (1913 -1995) aus Hamburg das von 1946 bis 1951 mit einer Unterbrechung als Gastprofessor in Stanford/USA von Karl Klotter (1901-1984) innegehabte Ordinariat für Mathematik und ihre technischen Anwendungen nachdem es 1952 in Ordinariat für Angewandte Mathematik umbenannt worden war
+ Weissinger war von 1961 bis 1963 Rektor der Technischen Hochschule Karlsruhe
+ Diese drei Ordinarien und ihre Mitarbeiter hatten die große Last der Mathematikausbildung für die nichtmathematischen Studiengänge zu tragen
+ Zusätzlich zu diesen drei mathematischen Ordinariaten wurde zur Mathematik zählend im Jahre 1953 zunächst Eberhard Mettler (1910-1991) auf ein Ordinariat für Mechanik berufen
+ Dieses entstand durch Umbenennung des Ordinariats für Mechanik und angewandte Mathematik
+ Inhaber dieses Ordinariats war bis zu seiner Emeritierung im Jahre 1953 Theodor Pöschl (1882-1959), unterbrochen durch eine 1937 aus politischen Gründen - er war mit einer Jüdin verheiratet - erfolgten Zwangseremitierung
+ Pöschl war von 1946 bis 1947 Rektor der Technischen Hochschule Karlsruhe
+ Nach der Emeritierung von Herrn Mettler im Jahre 1975 wurde sein Institut in die damalige Fakultät für Bauingenieur-und Vermessungswesen verlagert
+ Darüberhinaus wurde im Jahre 1961, ebenfalls der Mathematik zugeordnet, ein Ordinariat für Theoretische Mechanik eingerichtet, auf welches der aus Braunschweig kommende außerplanmäßige Professor Wilhelm Günther (1910 - 1996) berufen wurde
+ Bis Anfang der sechziger Jahre hörten die Studierenden der Mathematik in ihrer Grundausbildung eine der viersemestrigen Vorlesungen in Höherer Mathematik für Ingenieure
+ Daneben gab es über zwei Semester jeweils sog
+ Ergänzungsvorlesungen über Lineare Algebra und Analytische Geometrie bzw
+ Analysis im Umfang von je 2 Stunden pro Woche
+ Das Vorlesungangebotes im mathematischen Hauptstudium musste aufgrund der Lehrverpflichtungen der drei vorhandenen mathematischen Ordinariate im Ingenieurbereich bescheiden bleiben
+ Es wurde ergänzt durch Spezialvorlesungen der wenigen vorhandenen Lehrbeauftragten, Privatdozenten sowie ausserplanmässigen und ausserordentlichen Professoren
+ Hier ist insbesondere zu nennen der ausserplanmässige Professor Fritz Reutter (1911-1990), der von 1946 bis 1954 neben der sehr umfangreichen Lehrtätigkeit in Darstellender Geometrie für die Studierenden der Ingenieurwissenschaften sich auch an der Ausbildung der Mathematiker beteiligte
+ Er wurde 1954 an die Technische Hochschule Aachen berufen
+ Von 1961 bis 1962 vertrat der aus Freiburg kommende Martin Barner (geb
+ 1928), späterer langjähriger Direktor des Mathematischen Forschungsinstituts in Oberwolfach, eine ausserordentliche Professur für Darstellende Geometrie
+ Bemerkenswert ist die Tatsache, dass schon bald nach Ende des zweiten Weltkriegs Lehrveranstaltungen zur Mathematischen Statistik und Wahrscheinlichkeitstheorie angeboten wurden
+ Hier hat insbesondere Kurt Stange (1907-1974), der 1930 bei dem Strömungsmechaniker Ludwig Prandtl (1875-1953) in Göttingen promoviert hatte und später bei R
+ Klotter am Institut für Mathematik und technische Anwendungen Assistent war, sehr positiv gewirkt
+ Er wurde 1954 an die Technische Hochschule Berlin und später an die Technische Hochschule Aachen berufen
+ Ein neu eingerichtetes Ordinariat für Statistik wurde ab 1961 zunächst mit Hermann Witting (1927 - 2010) und danach vertretungsweise mit Werner Uhlmann (1928-2011) besetzt
+ Ab 1963 war dieses Ordinariat mit Dietrich Bierlein (geb
+ 1928) besetzt
+ Die personelle Situation der Mathematik und damit auch die Ausbildung der Studierenden der Mathematik verbesserte sich gravierend durch die Umsetzung von Empfehlungen des Wissenschaftsrats zum Ausbau der Wissenschaftlichen Einrichtungen im Jahre 1960
+ Diese hatten zur Folge, dass in den darauffolgenden Jahren auch an der Technischen Hochschule Karlsruhe eine ganze Reihe weiterer mathematischer Ordinariate, einige zunächst als Extraordinariate, eingerichtet wurden: · Heinrich-Wolfgang Leopoldt (1927-2011) insbesondere für Algebra und Zahlentheorie · Wolfgang Walter (1927-2010), insbesondere für Analysis · Heinz Kunle (1928-2012), insbesondere für Geometrie (Rektor von 1983 bis 1994) · Karl Nickel (1924-2009), insbesondere für Numerische Mathematik und Grossrechenanlagen · Ulrich Kulisch (geb
+ 1933 ), insbesondere für Angewandte Mathematik und als Leiter des Rechenzentrums Diese wurden später durch weitere Besetzungen ergänzt: · Harro Heuser (1927-2011), insbesondere für Funktionalanalysis · Erwin Kreyszig (1922-2008), insbesondere für Mathematische Statistik · Rolf Lingenberg (1929-1978), insbesondere für Geometrie
+ Nach Freiwerden durch Emeritierung, Wegberufung oder Tod während der aktiven Zeit wurden alle Positionen einschliesslich der ursprünglich vorhandenenen Ordinariate, deren Hauptaufgabe in der Ingenieurausbildung lag, ausnahmslos wieder besetzt, zum Teil bereits wiederholt, und sie sind der Mathematik bis heute erhalten geblieben
+ Weitere Verstärkung der Mathematikausbildung erfolgte ebenfalls aufgrund von Empfehlungen des Wissenschaftsrates durch die Einrichtung von sog
+ Positionen "Wissenschaftlicher Rat und Professor", für deren Besetzung die Habilitation Voraussetzung war, und durch die Verstärkung des akademischen Mittelbaus, insbesondere durch Akademische Räte als Dauerstellen, welche durch in der Regel promovierte Mitarbeiter besetzt werden konnten
+ Die Ausbildung von Mathematiklehrern für das Höhere Lehramt an Gymnasien hat nach dem zweiten Weltkrieg an der Technischen Hochschule in Karlsruhe von Anfang an eine wichtige Rolle gespielt
+ So las vom Wintersemester 1946/47 bis zum Wintersemester 1966/67 Hermann Silber, von 1953 bis 1959 Oberstudiendirektor am Helmholtz-Gymnasium, danach Präsident des Oberschulamtes Nordbaden, im Lehrauftrag "Ebene und Sphärische Trigonometrie" und "Elementarmathematik" für Lehramtskandidaten
+ Der Hochschulreferent im damaligen badischen Kultusministerium und spätere Honorarprofessor und Ehrensenator Eugen Thoma (1877-1955) bot von 1946 bis 1952 die Vorlesungen "Analytische und projektive Geometrie" sowie "Matrzenrechnung und Determinanten" für Lehramtskandidaten an
+ Im Seminar für Didaktik der Mathematik, das ab 1972 als Abteilung für Didaktik der Mathematik von Heinz Kunle neben seinem Ordinariat für Geometrie und später auch noch während seiner Rektoratszeit geleitet wurde, boten zunächst Hans-Georg Steiner (1928-2004) vom Wintersemester 1967/68 bis zum Sommersemester 1970, und, nach dessen Berufung an die Pädagogische Hochschule Bayreuth (später Universität Bielefeld), Ingo Weidig (1939) auch noch nach seiner Berufung an die Universität Koblenz-Landau, Lehrveranstaltungen speziell für Lehramtskandaten an
+ Das regelmässig stattfindende Didaktikkolloquium wird nicht nur von Studierenden und Mitarbeitern der Fakultät sondern auch von in der Praxis stehenden Lehrern besucht
+ Heute wird die Abteilung von Andreas Kirsch (1953) geleitet, der diese wichtige Aufgabe neben seinen umfangreichen Aufgaben in der Lehre für Ingenieure und Mathematiker wahrnimmt
+ Bis Anfang der siebziger Jahre war die Mathematik als sog
+ Abteilung für Mathematik Teil der Fakultät für allgemeine Naturwissenschaften und wurde dann als selbständige Fakultät für Mathematik eingerichtet
+ In den letzten Jahren konnte die Fakultät für Mathematik insbesondere bedingt durch das rapide Anwachsen von Studienanfängern wegen der Verkürzung der Gymnasialzeit von neun auf acht Jahre mehrere weitere Hochschullehrerstellen besetzen
+ Obwohl die Fakultät für Mathematik heute ein volles Mathematikstudium mit einem breiten Vorlesungsspektrum anbietet und ihre Forschungsleistungen anlässlich verschiedener Evaluationen regelmässig im vorderen Bereich liegen, setzt sie nach wie vor einen ganz erheblichen Teil ihrer Kapazität für die mathematische Grundausbildung von Studierenden anderer Fakultäten ein
+ Sie ist sich ihrer Verpflichtung als Teil einer natur- und ingenieurwissenschaftlich geprägten akademischen Einrichtung bewusst und nimmt diese Aufgabe neben der Ausbildung von Mathematikern sehr ernst und gewissenhaft wahr
+ Nach der Gründung des Karlsruher Institus für Technologie (KIT) im Jahre 2009 durch Zusammenschluss des Forschungszentrums Karlsruhe und der Universität Karlsruhe - die vormalige Technische Universität Karlsruhe war 1967 in Universität Karlsruhe umbenannt worden - ist die Fakultät für Mathematik heute Teil dieser Institution
+ Gegenwärtig (2013) wird über eine Neustrukturierung von KIT, insbesondere durch Zusammmenlegung von Fakultäten nachgedacht
+ Es ist daher nicht ausgeschlossen, dass die gegenwärtige Fakultät für Mathematik in naher Zukunft Teil einer aus mehreren ehemaligen Fakultäten bestehenden Einheit des KIT sein wird
+ Fakultät für Mathematik D-76128 Karlsruhe Tel
+: +49 721 608-43800 E-Mail: dekanatTzh1∂math
+kit
+edu RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

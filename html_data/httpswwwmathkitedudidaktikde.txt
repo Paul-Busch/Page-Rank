@@ -1,0 +1,102 @@
+@import url(https://www
+math
+kit
+edu/extensions/skins/mathCMS/skin
+css); @import url(https://www
+math
+kit
+edu/extensions/smoothness/jquery-ui-1
+10
+3
+custom
+css); 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik - Abteilung für Didaktik der Mathematik KIT - Karlsruher Institut für Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen Fakultät für Mathematik Start Fakultät für Mathematik Fakultät für Mathematik Organisation Fakultätsleitung Fakultätsleitung Dekan Prodekan Studiendekan Geschäftsführung Sekretariat Ämter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abteilung für Didaktik Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut für Algebra und Geometrie Institut für Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut für Analysis Institut für Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe Stabilität und Instabilität in Flüssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÜFUNGEN - KLAUSURARCHIV Institut für Angewandte und Numerische Mathematik Institut für Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut für Stochastik Institut für Stochastik AG Computational Statistics AG Räumliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der Fakultät Studiengänge Studiengänge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik Ingenieurpädagogik Diplomstudiengänge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen für Studierende Informationen für Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung für Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft Modulhandbücher und Studienpläne Modulhandbücher und Studienpläne Archiv Prüfungsordnungen Vorlesungsangebot Vorlesungsangebot Zukünftige Veranstaltungen Archiv Lehre für andere Fakultäten Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Startseite Fakultät für Mathematik Institute Forschung Studium und Lehre Personen Fakultät für Mathematik Organisation Fakultätsleitung Ämter und Kommissionen Infos Studiendekan Abteilung für Didaktik Rechnerabteilung Fachbibliothek Mathematik Podcast Geschichte Anreise Kontakt Kooperationen Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Abteilung für Didaktik der Mathematik Die Abteilung wurde bereits 1968 vom späteren langjährigen Universitätsrektor Prof
+ Dr
+ Dr
+ h
+ c
+ mult
+ Heinz Kunle gegründet und gehört damit zu den ältesten Didaktikinstitutionen an einer baden-württembergischen Universität
+ Sie bildet an der Fakultät das Bindeglied zwischen Schule und Hochschule und ist kompetenter Ansprechpartner für SchülerInnen, Lehrkräfte und Lehramtsstudierende
+ Angebote für Schulen Zahlreiche Angebote für SchülerInnen und Lehrkräfte
+ Schülerlabor, CAMMP, Begabtengruppen, Kolloquien, Fortbildungen uvm
+ Tag der offenen Tür im Schülerlabor Mathematik An einem Freitag im Monat ist das Schülerlabor Mathematik von 14-17 Uhr geöffnet
+ Interessierte jedes Alters sind herzlich willkommen! Lehrveranstaltungen Die Abteilung ist zuständig für die Didaktikausbildung der Lehramtsstudierenden an der Fakultät für Mathematik
+ Hier erhalten Sie das aktuelle Lehrangebot
+ Arbeitskreis Fachdidaktik Mathematik Baden-Württemberg Einmal pro Jahr treffen sich alle an der Lehramtsausbildung für das allgemeinbildende gymnasiale Lehramt beteiligten Institutionen
+ Didaktik-Kolloquium In 3-4 Vorträgen pro Semester präsentiert die Abteilung aktuelle Entwicklungen in der Didaktik der Mathematik
+ Lehrkräfte, Lehramtsstudierende und andere Didaktik-Interessierte sind herzlich willkommen! Newsletter Zwei- bis dreimal im Jahr erscheint der Newsletter der Didaktik-Abteilung
+ Sie können den Newsletter abonnieren und online alle bisher erschienenen Newsletter ansehen
+ Personen Name Tel
+ E-Mail Prof
+ Dr
+ Martin Frank +49 721 608-48088 martin
+frank@kit
+edu Olaf Grund 0721-608-47748 Olaf
+Grund@kit
+edu Prof
+ Dr
+ Tobias Hartnick +49 721 608 43040 tobias
+hartnick@kit
+edu Maren Hattebuhr +49 721 608-24473 maren
+hattebuhr@kit
+edu Prof
+ Dr
+ Daniel Hug 0721 608 43708 daniel
+hug@kit
+edu M
+Sc
+ Peter Kaiser 0721 608 48892 peter
+kaiser2@kit
+edu Dr
+ Ingrid Lenhardt 0721 608 42728 ingrid
+lenhardt@kit
+edu Jenny Rausch 0721 608 43800 jenny
+rausch@kit
+edu Lea Schenk M
+Sc
+ 0721 608 43264 lea
+schenk@kit
+edu M
+Ed
+ Sarah Schönbrodt +49 721 608-44038 sarah
+schoenbrodt@kit
+edu Dr
+ Klaus Spitzmüller 0721 608 45858 klaus
+spitzmueller@kit
+edu Kirsten Wohak 0721 608-24465 wohak@kit
+edu Ehemalige Name Tel
+ E-Mail Ernestina Dittrich Dr
+ Volker Drumm Dr
+ Janina Gärtner Dr
+ Tanja Göckler - Prof
+ i
+ R
+ Dr
+ Norbert Henze 0721 608 46697 henze@kit
+edu Prof
+ i
+ R
+ Dr
+ Andreas Kirsch 07222 4077738 Andreas
+Kirsch@kit
+edu Lena Martin - Dr
+ Verena Möhler verena
+moehler@kit
+edu Dr
+ Felix Wellen Dr
+ Thomas Willging Abteilung für Didaktik der Mathematik Sekretariat Kollegiengebäude Mathematik (20
+30) Zimmer 1
+054 Adresse Englerstraße 2 76131 Karlsruhe Jenny Rausch Öffnungszeiten: Montag - Freitag, 10:00-12:00 Uhr Tel
+: 0721 608 43800 Fax
+: 0721 608 46044 RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

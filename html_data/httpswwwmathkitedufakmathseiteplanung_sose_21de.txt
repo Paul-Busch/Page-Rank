@@ -1,0 +1,110 @@
+@import url(https://www
+math
+kit
+edu/extensions/skins/mathCMS/skin
+css); @import url(https://www
+math
+kit
+edu/extensions/smoothness/jquery-ui-1
+10
+3
+custom
+css); 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik - Planung SoSe 21 KIT - Karlsruher Institut für Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen Fakultät für Mathematik Start Fakultät für Mathematik Fakultät für Mathematik Organisation Fakultätsleitung Fakultätsleitung Dekan Prodekan Studiendekan Geschäftsführung Sekretariat Ämter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abteilung für Didaktik Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut für Algebra und Geometrie Institut für Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut für Analysis Institut für Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe Stabilität und Instabilität in Flüssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÜFUNGEN - KLAUSURARCHIV Institut für Angewandte und Numerische Mathematik Institut für Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut für Stochastik Institut für Stochastik AG Computational Statistics AG Räumliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der Fakultät Studiengänge Studiengänge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik Ingenieurpädagogik Diplomstudiengänge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen für Studierende Informationen für Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung für Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft Modulhandbücher und Studienpläne Modulhandbücher und Studienpläne Archiv Prüfungsordnungen Vorlesungsangebot Vorlesungsangebot Zukünftige Veranstaltungen Archiv Lehre für andere Fakultäten Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Startseite Fakultät für Mathematik Institute Forschung Studium und Lehre Personen Fakultät für Mathematik Organisation Fakultätsleitung Ämter und Kommissionen Infos Studiendekan Abteilung für Didaktik Rechnerabteilung Fachbibliothek Mathematik Podcast Geschichte Anreise Kontakt Kooperationen Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Planung SoSe 21 Liebe Mitarbeiterinnen und Mitarbeiter, liebe Fachschaft, diese Mail hat folgende Abschnitte: 1) Planungen für das SoSe 21 2) Unerlaubte Aufzeichnung von LVen 3) aktueller Stand der Klausurenplanung 4) Alternativen zu Präsenzklausuren Zu 1:) Damit der Stundenplan für das Sommersemester erstellt werden kann, haben Jannis Anapolitanos, Peer Kunstmann, Michaela Regelin und ich ein neues google-spreadsheet https://docs
+google
+com/spreadsheets/d/1vnF-UdJEwNE8gEih-GYTmLHIyCalpkaFNDl_vVd7p6o/edit#gid=0 entworfen
+ Ich möchte alle diejenigen, die eine LV im SoSe 21 anbieten, bitten bis zum 11
+ Januar 2021 ihre Pläne bzgl
+ "Präsenz, rollierend, online" etc
+ einzutragen
+ Das spreadsheet hat zwei Blätter (intern, extern) und ganz oben befindet sich eine Legende
+ Z
+B
+ bedeutet: R/R/P in Spalte D: Vorlesung rollierend, Übung rollierend, Tutorien (auch) in Präsenz 1/1/12 in Spalte E: 1 Präsenztermin (pro Woche) für VL, 1 Präsenztermin für Ü, 12 Tutorien in Präsenz 0/0/5 in Spalte F: 5 weitere Tutorien finden online statt In der Tabelle möchten wir neben den Vorlesungen auch die Proseminare, Seminare und AGs erfassen
+ Sobald Ihre Vorstellungen erfasst worden sind, werden Jannis Anapolitanos und Peer Kunstmann den Stundenplan erstellen und wir werden dann noch im Januar die Sitzung zum Lehrangebot durchführen (Termin wird noch bekanntgegeben)
+ Im Prinzip können wir die Planungen so ähnlich machen, wie wir es ursprünglich zum Start des Wintersemesters erhofft hatten
+ Wenn wir das zu Grunde legen, lassen sich viele LVen einfach gemäß des damaligen Standes fortschreiben
+ Wiederum würden dem 2
+ Semester Priorität bei der Präsenz einräumen und den 1
+067 vorrangig für Tutorien für Ana 2, LA 2 und für die Proseminare verwenden
+ Mehr Präsenz als zu Beginn des WS sollten wir sicherlich auch nicht einplanen
+ Zu 2): Falls es in Ihrer LV zu unerlaubten Aufzeichnungen kommt, können Sie sich mit Hilfe der folgenden Handreichung darüber informieren, was zu tun ist: https://www
+sle
+kit
+edu/downloads/Unerlaubte_Aufzeichnung_von_Lehrveranstaltungen
+pdf Zu 3): die Planung für die Klausurenphase ging gut voran
+ Ich denke, alle Klausurverantwortlichen haben inzwischen Bestätigungen von ASERV bekommen und die Liste der geplanten Klausuren findet man auf dem google-spreadsheet https://docs
+google
+com/spreadsheets/d/1sH5bnAh_IBp_9B0Ku3NOaSCqWVSWE76ZW6PbsVqO59o/edit#gid=0 Falls Sie die Termine Ihren Studierenden noch nicht mitgeteilt haben, dann wäre das jetzt sicherlich ein guter Zeitpunkt
+ Für die Klausurverantwortlichen: bitte denken Sie auch daran, die Seite https://www
+math
+kit
+edu/lehre/seite/klausurtermine/ zu aktualisieren, da sie eine wichtige Informationsquelle für die Studierenden ist
+ Zu 4): Nun ein neues Thema, das etwas Ruhe und Gelassenheit erfordert
+ Bisher gingen wir in den Planungen für die Klausurenphase davon aus, dass die Klausuren in Präsenz stattfinden können
+ Das würde auch dann noch Sinn machen, wenn Präsenz zwar durch Hygienevorschriften eingeschränkt ist, aber immerhin noch stattfinden kann
+ Nun ist aber auch denkbar, dass zwischen Ende Februar und Anfang April keine Präsenz erlaubt ist - so wie es zur Zeit der Fall ist
+ In diesem Fall brauchen wir Alternativen zu den Präsenzklausuren, denn ein Ausfallen oder ein Verschieben der Klausuren bringt große Schwierigkeiten mit sich (Häufung von Klausuren während des Sommersemesters oder in der nächsten Klausurenphase)
+ KIT-weit betrifft das sehr, sehr viele Klausuren
+ Daher sehe ich es ebenso wie Herr Wanner: Ausfallen ist keine Alternative
+ Nun stellt sich die Frage, was denn die Alternativen sind
+ Darüber hat sich seit letztem Sommer eine AG Gedanken gemacht, die ich in aller Kürze wiedergebe: a) Ersatz durch mündliche Prüfung: für kleine LVs lässt sich das problemlos organisieren
+ b) Online-Klausur: innerhalb der ILIAS-Plattform kann eine Klausur als Antwort-Wahl-Verfahren, Lücken- oder Freitext erstellt werden
+ c) Upload-Klausur (auch "Open Book Exam"): hierbei können die Studierenden innerhalb eines festen Zeitraumes eine Klausur in ILIAS herunterladen, offline bearbeiten und nach Ende der Bearbeitungsfrist scannen oder fotografieren und wieder hochladen
+ Bei der Bearbeitung stehen ihnen alle Hilfsmittel zur Verfügung
+ Klausuren können in mehreren vergleichbaren Varianten ausgegeben werden
+ d) Klausuren unter Videoaufsicht in ZOOM: die Studierenden erhalten eine Klausur via ILIAS und schreiben vor dem in eine ZOOM-Sitzung eingewählten Laptop mit laufender Kamera die Klausur
+ Dabei werden sie in Gruppen geeigneter Größe aufgeteilt und von Mitarbeiter*innen via ZOOM beaufsichtigt
+ Eine Safe-Exam-Browser kann zum Einsatz kommen, der während der Bearbeitung die Verwendung von unerlaubten Ressourcen unterbindet
+ Zum Szenario b) und c) gibt es bereits ausgearbeitetes Material und Handreichungen, vgl
+ https://www
+sle
+kit
+edu/downloads/Handreichung_Erfolgsk_ohne_Zusammenkuenfte
+pdf sowie die ILIAS Seite https://ilias
+studium
+kit
+edu/goto
+php?target=cat_1247469 Für Szenario d) wird gerade an einer Handreichung gearbeitet, über die ich Sie a
+s
+a
+p
+ informieren werde
+ Die meisten Leute, die zum ersten Mal von Szenario b) und c) hören, fragen sich, wie denn die Authentifizierung stattfindet
+ Die Antwort ist: die Authentifizierung kann nicht technisch gelöst werden, sondern die Studierenden unterschreiben eine Erklärung, dass sie die Klausur selbstständig und ohne die Hilfe Dritter verfasst haben
+ Täuschung führt zur Note 5,0
+ Damit wird eine Hürde aufgebaut, die hilft, Betrugsversuche zu vermeiden - auszuschließen sind sie dadurch nicht (was übrigens auch bei Präsenzklausuren der Fall ist, denn wir wissen nicht was auf Smartphones während des Toilettenbesuches passiert)
+ zeitlicher Fahrplan: zunächst bitte ich Sie, die obigen Alternativen zu prüfen und sich selbst ein Bild davon zu machen
+ Eine Information der Studierenden über die gewählte Alternative bietet sich erst im neuen Jahr an, wenn Sie für sich selbst einen Entschluss gefasst haben
+ Ab einem gewissen Zeitpunkt (x-Wochen vor dem Klausurtermin) muss allerdings eine verbindliche und unumkehrbare Entscheidung fallen, ob das gewählte Alternativszenario greift oder nicht
+ Bitte bedenken Sie auch, dass genügend Zeit für einen Probelauf für das Alternativszenario eingeplant wird
+ Für b) und c) müssen virtuelle ILIAS-Räume bei ASERV gebucht werden, aber die Termine sollten unbedingt beibehalten werden
+ Abschließend meine persönliche Meinung: für meine HM3 Physik/ETechnik finde ich Szenario c) passend
+ Szenario b) halte ich für ungeeignet und Szenario d) finde ich problematisch hinsichtlich der Beaufsichtigung und des Eindringens in die Privatsphäre
+ Außerdem wird das Problem der Authentifizierung (Studierendenausweis in die Kamera halten) und der Vermeidung von Betrug (siehe: Toilettenbesuch) auch nicht besser gelöst als unter b) und c)
+ Dem Umstand, dass in c) beliebige Hilfsmittel herangezogen werden können, versuche ich in der Aufgabenstellung Rechnung zu tragen
+ Außerdem lasse ich auch in einer Präsenzklausur (gewisse) Hilfsmittel zu
+ Der Vorstand teilt diese Einschätzung
+ Zum Schluss: ich danke Ihnen für die Geduld, diese e-mail zu Ende zu lesen und wünsche fröhliche Weihnachten und ein glückliches neues Jahr mit zügigen Erfolgen bei der Impfung
+ Ich bedanke mich herzlich, dass Sie mich in meiner Arbeit im Jahr 2020 so tatkräftig und effizient unterstützt haben
+ Der abschließende Dank geht an all diejenigen, die mich im letzten Fakultätsrat wirklich überrascht, beschenkt und geehrt haben - das soll mir als Ansporn für 2021 dienen, um mit Ihnen gemeinsam weiterhin erfolgreich die Lehre an unserer Fakultät zu organisieren
+ Mit besten Grüßen, Wolfgang Reichel (Studiendekan) Fakultät für Mathematik D-76128 Karlsruhe Tel
+: +49 721 608-43800 E-Mail: dekanatTzh1∂math
+kit
+edu RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

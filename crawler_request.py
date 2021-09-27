@@ -66,3 +66,6 @@ a = crawler("https://www.math.kit.edu/")
 #response = requests.get(a[3], verify = False)
 #print(response.status_code)
 #print(len(a))
+
+
+

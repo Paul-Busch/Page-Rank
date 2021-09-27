@@ -10,31 +10,39 @@ edu/extensions/smoothness/jquery-ui-1
 3
 custom
 css); 
-ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik KIT - Karlsruher Institut fÃ¼r Technologie 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik KIT - Karlsruher Institut für Technologie 
 cls-1,
 cls-2,
 cls-3{fill-rule:evenodd;}
 cls-2{fill:#fff;}
-cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen FakultÃ¤t fÃ¼r Mathematik Start FakultÃ¤t fÃ¼r Mathematik FakultÃ¤t fÃ¼r Mathematik Neue Verfahrensweise ab SoSe21 bei Raumbuchungen fÃ¼r schriftliche PrÃ¼fungen (12
-03
-2021) Get Together, 2
- Backwettbewerb, Zukunft der digitalen Lehre_16
-04
-2021 Organisation FakultÃ¤tsleitung FakultÃ¤tsleitung Dekan Prodekan Studiendekan GeschÃ¤ftsfÃ¼hrung Sekretariat Ãmter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre ErlÃ¤uterungen zur Umfrage Online-Lehre ModulhandbÃ¼cher Winter 2021/22 Info-Mails zum Wintersemester 2020/21 Planung SoSe 21 und Alternativen zu PrÃ¤senzklausuren (22
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen Fakultät für Mathematik Start Fakultät für Mathematik Fakultät für Mathematik Organisation Fakultätsleitung Fakultätsleitung Dekan Prodekan Studiendekan Geschäftsführung Sekretariat Ämter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
 12
-2020) Info-Mails zum Sommersemester 2021 Abteilung fÃ¼r Didaktik Abteilung fÃ¼r Didaktik Angebote fÃ¼r Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut fÃ¼r Algebra und Geometrie Institut fÃ¼r Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
-) Arbeitsgruppe Konvexe Geometrie Institut fÃ¼r Analysis Institut fÃ¼r Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe StabilitÃ¤t und InstabilitÃ¤t in FlÃ¼ssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÃFUNGEN - KLAUSURARCHIV Institut fÃ¼r Angewandte und Numerische Mathematik Institut fÃ¼r Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut fÃ¼r Stochastik Institut fÃ¼r Stochastik AG Computational Statistics AG RÃ¤umliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der FakultÃ¤t StudiengÃ¤nge StudiengÃ¤nge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik IngenieurpÃ¤dagogik DiplomstudiengÃ¤nge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen fÃ¼r Studierende Informationen fÃ¼r Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung fÃ¼r Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft ModulhandbÃ¼cher und StudienplÃ¤ne ModulhandbÃ¼cher und StudienplÃ¤ne Archiv PrÃ¼fungsordnungen Vorlesungsangebot Vorlesungsangebot ZukÃ¼nftige Veranstaltungen Archiv Lehre fÃ¼r andere FakultÃ¤ten Studium Sommer 2020 Studium Winter 2020/21 Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Karlsruher Institut fÃ¼r Technologie - Fakultät für Mathematik Aktuelle Termine Termine fÃ¼r Veranstaltungen und wichtige Deadlines News AKTUELL: alle Infos zur Lehre im Wintersemester! Forschung Zentrale Forschungseinrichtungen in der FakultÃ¤t Studium und Lehre Informationen fÃ¼r unsere Studierenden und zu unseren StudiengÃ¤ngen Studie­rende Besucher Alumni Schülerund Lehrer Studien-interessierte Studie­rende Besucher Alumni Schülerund Lehrer Studien­inter­essierte Aktuelle Termine Datum Veranstaltung Modellansatz Podcast: Benchmark OpenLB Veranstaltungskalender News SFB in Karlsruher Gymnasien Ab 30
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abteilung für Didaktik Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut für Algebra und Geometrie Institut für Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut für Analysis Institut für Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe Stabilität und Instabilität in Flüssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÜFUNGEN - KLAUSURARCHIV Institut für Angewandte und Numerische Mathematik Institut für Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut für Stochastik Institut für Stochastik AG Computational Statistics AG Räumliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der Fakultät Studiengänge Studiengänge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik Ingenieurpädagogik Diplomstudiengänge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen für Studierende Informationen für Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung für Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft Modulhandbücher und Studienpläne Modulhandbücher und Studienpläne Archiv Prüfungsordnungen Vorlesungsangebot Vorlesungsangebot Zukünftige Veranstaltungen Archiv Lehre für andere Fakultäten Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Karlsruher Institut für Technologie - Fakultät für Mathematik Aktuelle Termine Termine für Veranstaltungen und wichtige Deadlines News AKTUELL: alle Infos zur Lehre im Wintersemester! Forschung Zentrale Forschungseinrichtungen in der Fakultät Studium und Lehre Informationen für unsere Studierenden und zu unseren Studiengängen Studie­rende Besucher Alumni Schülerund Lehrer Studien-interessierte Studie­rende Besucher Alumni Schülerund Lehrer Studien­inter­essierte Aktuelle Termine Datum Veranstaltung Modellansatz Podcast: Benchmark OpenLB 4
+10
+2021 - 8
+10
+2021 Vorkurs Mathematik Veranstaltungskalender News SFB in Karlsruher Gymnasien Ab 30
 08
- geht unser SFB fÃ¼r 2 Wochen in 5 Karlsruher Gymnasien, um mitzuhelfen, die durch die Corona-Pandemie entstandenen LernlÃ¼cken in Mathematik bei den SchÃ¼ler*innen zu schlieÃen
- Insgesamt 40 Mitarbeitende engagieren sich als ehrenamtliche LehrkrÃ¤fte fÃ¼r dieses Projekt
+ geht unser SFB für 2 Wochen in 5 Karlsruher Gymnasien, um mitzuhelfen, die durch die Corona-Pandemie entstandenen Lernlücken in Mathematik bei den Schüler*innen zu schließen
+ Insgesamt 40 Mitarbeitende engagieren sich als ehrenamtliche Lehrkräfte für dieses Projekt
  weiterlesen Studieninformationstag Am 17
- November gibt es im Rahmen des Studieninformationstags ein vielseitiges mathematisches Programm fÃ¼r SchÃ¼lerinnen und SchÃ¼ler: Schnupper-Vorlesungen, Informationen zum Studium und zu Berufsaussichten aus erster Hand und das SchÃ¼lerlabor Mathematik lÃ¤dt zum Besuch ein
- weiterlesen FakultÃ¤tslehrpreis Im Rahmen der virtuellen Jahresfeier des KIT wurde der FakultÃ¤tslehrpreis Mathematik 2021 an Mitglieder der Lattice Boltzmann Research Group (LBRG), fuÌr exzellente Lehre im Rahmen der Veranstaltung "Projektorientiertes Softwarepraktikum" verliehen
- Herzlichen GlÃ¼ckwunsch! Die GrÃ¼nde werden auch in einem Video veranschaulicht
- weiterlesen Forschung Neben ihren vier Instituten bÃ¼ndelt die FakultÃ¤t ihre ForschungsaktivitÃ¤ten im Sonderforschungsbereich 1173 - Wellenphänomene, dem Graduiertenkolleg 2229 - Asymptotische Invarianten und Limiten von Gruppen und Räumen, sowie dem KIT Zentrum MathSEE - Mathematics in Sciences, Engineering, and Economics
- SFB 1173 Sonderforschungsbereich 1173 - Wellenphänomene zur Homepage GRK 2229 Graduiertenkolleg 2229 - Asymptotische Invarianten und Limiten von Gruppen und Räumen zur Homepage MathSEE KIT Zentrum MathSEE - Mathematics in Sciences, Engineering, and Economics zur Homepage Institute IAG Institut fÃ¼r Algebra und Geometrie zur Homepage IANA Institut fÃ¼r Analysis zur Homepage IANM Institut fÃ¼r Angewandte und Numerische Mathematik zur Homepage STOCH Institut fÃ¼r Stochastik zur Homepage Studium und Lehre Die FakultÃ¤t bietet je 4 Bachelor- und MasterstudiengÃ¤nge an, dazu kommen zahlreiche Lehrveranstaltungen fÃ¼r Studierende anderer FakultÃ¤ten
- Bachelor / Master Unsere StudiengÃ¤nge Vorlesungen und Seminare Lehrangebot Studium und Lehre Alle Infos $(function() { $('#minikalender')
-show(); var modalData = {}; modalData['11-17-2021'] = "<p><strong>Studieninformationstag</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+ November gibt es im Rahmen des Studieninformationstags ein vielseitiges mathematisches Programm für Schülerinnen und Schüler: Schnupper-Vorlesungen, Informationen zum Studium und zu Berufsaussichten aus erster Hand und das Schülerlabor Mathematik lädt zum Besuch ein
+ weiterlesen Fakultätslehrpreis Im Rahmen der virtuellen Jahresfeier des KIT wurde der Fakultätslehrpreis Mathematik 2021 an Mitglieder der Lattice Boltzmann Research Group (LBRG), für exzellente Lehre im Rahmen der Veranstaltung "Projektorientiertes Softwarepraktikum" verliehen
+ Herzlichen Glückwunsch! Die Gründe werden auch in einem Video veranschaulicht
+ weiterlesen Forschung Neben ihren vier Instituten bündelt die Fakultät ihre Forschungsaktivitäten im Sonderforschungsbereich 1173 - Wellenphänomene, dem Graduiertenkolleg 2229 - Asymptotische Invarianten und Limiten von Gruppen und Räumen, sowie dem KIT Zentrum MathSEE - Mathematics in Sciences, Engineering, and Economics
+ SFB 1173 Sonderforschungsbereich 1173 - Wellenphänomene zur Homepage GRK 2229 Graduiertenkolleg 2229 - Asymptotische Invarianten und Limiten von Gruppen und Räumen zur Homepage MathSEE KIT Zentrum MathSEE - Mathematics in Sciences, Engineering, and Economics zur Homepage Institute IAG Institut für Algebra und Geometrie zur Homepage IANA Institut für Analysis zur Homepage IANM Institut für Angewandte und Numerische Mathematik zur Homepage STOCH Institut für Stochastik zur Homepage Studium und Lehre Die Fakultät bietet je 4 Bachelor- und Masterstudiengänge an, dazu kommen zahlreiche Lehrveranstaltungen für Studierende anderer Fakultäten
+ Bachelor / Master Unsere Studiengänge Vorlesungen und Seminare Lehrangebot Studium und Lehre Alle Infos $(function() { $('#minikalender')
+show(); var modalData = {}; modalData['10-08-2021'] = "<p><strong>Vorkurs Mathematik </strong><p style='line-height: 20px;'><strong>Zeit:</strong> 4
+10
+2021 - 8
+10
+2021<br><a class='link' href='https://www
+math
+kit
+edu/event/vk-2015w/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['11-17-2021'] = "<p><strong>Studieninformationstag</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
 11
 2021<br><a class='link' href='https://studieninformationstag
 sle
@@ -56,7 +64,7 @@ de/ich-wuensche-dir-zeit/b-1/30' style='outline:none; color: #009682'>weiterlese
 2020<br><a class='link' href='http://www
 math
 kit
-edu/seite/jahresfeier/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>FakultÃ¤tsfeier Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 4
+edu/seite/jahresfeier/' style='outline:none; color: #009682'>weiterlesen</a></p></p><p><strong>Fakultätsfeier Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 4
 12
 2020<br><a class='link' href='https://www
 math
@@ -67,7 +75,7 @@ edu/fakmath/event/fakfest_ws20/' style='outline:none; color: #009682'>weiterlese
 10
 2020<br><a class='link' href='https://www
 youtube
-com/watch?v=I0RHUFKLxoE' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-30-2020'] = "<p><strong>Vorkurs fÃ¼r Mathematiker*innen</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 26
+com/watch?v=I0RHUFKLxoE' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-30-2020'] = "<p><strong>Vorkurs für Mathematiker*innen</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 26
 10
 2020 - 30
 10
@@ -96,7 +104,7 @@ edu/event/backdeinpi/' style='outline:none; color: #009682'>weiterlesen</a></p><
 2020<br><a class='link' href='http://www
 math
 kit
-edu/iag3/~herrlich/seite/tdm' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-05-2020'] = "<p><strong>GrÃ¼ndung GAMM SC am KIT</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 5
+edu/iag3/~herrlich/seite/tdm' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-05-2020'] = "<p><strong>Gründung GAMM SC am KIT</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 5
 2
 2020, 16:00 - 18:00 Uhr<br><a class='link' href='https://www
 math
@@ -107,7 +115,7 @@ edu/event/gammscka/' style='outline:none; color: #009682'>weiterlesen</a></p></p
 2020<br><a class='link' href='https://www
 math
 kit
-edu/fakmath/event/berrat_ss20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-06-2020'] = "<p><strong>Ãffnungszeiten an den Feiertagen</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 24
+edu/fakmath/event/berrat_ss20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-06-2020'] = "<p><strong>Öffnungszeiten an den Feiertagen</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 24
 12
 2019 - 6
 1
@@ -151,13 +159,13 @@ edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws20-21_2/' style='outline:none;
 math
 kit
 edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws20-21_1/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['05-07-2020'] = "<p><strong>1
- Vortrag im Didaktikkolloquium im SS 2020 - ENTFÃLLT </strong><p style='line-height: 20px;'><strong>Zeit:</strong> 7
+ Vortrag im Didaktikkolloquium im SS 2020 - ENTFÄLLT </strong><p style='line-height: 20px;'><strong>Zeit:</strong> 7
 5
 2020, 18:15 Uhr<br><a class='link' href='https://www
 math
 kit
 edu/didaktik/lehre/didkoll-dauerdauer/event/did_ss20_1/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-18-2020'] = "<p><strong>2
- Vortrag im Didaktikkolloquium im SS 2020 - ENTFÃLLT</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
+ Vortrag im Didaktikkolloquium im SS 2020 - ENTFÄLLT</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 18
 6
 2020, 18:15 Uhr<br><a class='link' href='https://www
 math
@@ -186,7 +194,7 @@ edu/didaktik/lehre/didkoll-dauerdauer/event/did_ws1920_3/' style='outline:none; 
 2021, 15:00 Uhr<br><a class='link' href='https://www
 math
 kit
-edu/pde/event/pdesem_crippa/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-16-2020'] = "<p><strong>PDE-Seminar: Vortrag von Michael Herty fÃ¤llt leider aus</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 16
+edu/pde/event/pdesem_crippa/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-16-2020'] = "<p><strong>PDE-Seminar: Vortrag von Michael Herty fällt leider aus</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 16
 1
 2020, 14:00 Uhr<br><a class='link' href='https://www
 math
@@ -216,7 +224,7 @@ edu/iana3/lehre/mi1w-forschsemdauer/event/talkzuijlen/' style='outline:none; col
 2020, 14:00 - 15:30 Uhr<br><a class='link' href='https://www
 math
 kit
-edu/iana3/lehre/mi1w-forschsemdauer/event/talkamenta/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-10-2021'] = "<p><strong>FakultÃ¤tsfeier Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 10
+edu/iana3/lehre/mi1w-forschsemdauer/event/talkamenta/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-10-2021'] = "<p><strong>Fakultätsfeier Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 10
 12
 2021<br><a class='link' href='https://www
 math
@@ -263,13 +271,13 @@ edu/fakmath/event/berrat_ws21_01/' style='outline:none; color: #009682'>weiterle
 math
 kit
 edu/fakmath/event/berrat_ws21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-01-2021'] = "<p><strong>2
- Sitzung des FakultÃ¤tsrats im Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 1
+ Sitzung des Fakultätsrats im Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 1
 12
 2021<br><a class='link' href='https://www
 math
 kit
 edu/fakmath/event/fakrat_ws21_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-27-2021'] = "<p><strong>1
- Sitzung des FakultÃ¤tsrats im Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 27
+ Sitzung des Fakultätsrats im Ws 21/22</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 27
 10
 2021<br><a class='link' href='https://www
 math
@@ -352,13 +360,13 @@ edu/fakmath/event/berrat_ss21_02/' style='outline:none; color: #009682'>weiterle
 math
 kit
 edu/fakmath/event/berrat_ss21_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-21-2021'] = "<p><strong>3
- Sitzung des FakultÃ¤tsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
+ Sitzung des Fakultätsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 21
 7
 2021<br><a class='link' href='https://www
 math
 kit
 edu/fakmath/event/fakrat_ss21_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-09-2021'] = "<p><strong>2
- Sitzung des FakultÃ¤tsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
+ Sitzung des Fakultätsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
 6
 2021<br><a class='link' href='https://www
 math
@@ -369,7 +377,7 @@ edu/fakmath/event/fakrat_ss21_02/' style='outline:none; color: #009682'>weiterle
 math
 kit
 edu/fakmath/event/vb_ss21/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-28-2021'] = "<p><strong>1
- Sitzung des FakultÃ¤tsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
+ Sitzung des Fakultätsrats im Ss 21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
 4
 2021<br><a class='link' href='https://www
 math
@@ -434,19 +442,19 @@ edu/fakmath/event/berrat_ws20_02/' style='outline:none; color: #009682'>weiterle
 math
 kit
 edu/fakmath/event/berrat_ws20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['02-17-2021'] = "<p><strong>3
- Sitzung des FakultÃ¤tsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
+ Sitzung des Fakultätsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 17
 2
 2021<br><a class='link' href='https://www
 math
 kit
 edu/fakmath/event/fakrat_ws20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['12-09-2020'] = "<p><strong>2
- Sitzung des FakultÃ¤tsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
+ Sitzung des Fakultätsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 9
 12
 2020<br><a class='link' href='https://www
 math
 kit
 edu/fakmath/event/fakrat_ws20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['10-28-2020'] = "<p><strong>1
- Sitzung des FakultÃ¤tsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
+ Sitzung des Fakultätsrats im Ws 20/21</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 28
 10
 2020<br><a class='link' href='https://www
 math
@@ -534,19 +542,19 @@ edu/fakmath/event/berrat_ss20_03/' style='outline:none; color: #009682'>weiterle
 math
 kit
 edu/fakmath/event/berrat_ss20_01/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['07-22-2020'] = "<p><strong>3
- Sitzung des FakultÃ¤tsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 22
+ Sitzung des Fakultätsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 22
 7
 2020<br><a class='link' href='https://www
 math
 kit
 edu/fakmath/event/fakrat_ss20_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['06-03-2020'] = "<p><strong>2
- Sitzung des FakultÃ¤tsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 3
+ Sitzung des Fakultätsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 3
 6
 2020<br><a class='link' href='https://www
 math
 kit
 edu/fakmath/event/fakrat_ss20_02/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['04-29-2020'] = "<p><strong>1
- Sitzung des FakultÃ¤tsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
+ Sitzung des Fakultätsrats im Ss 20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
 4
 2020<br><a class='link' href='https://www
 math
@@ -580,12 +588,12 @@ edu/fakmath/event/senat_ws19_05/' style='outline:none; color: #009682'>weiterles
 math
 kit
 edu/fakmath/event/ve_ws1920/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; modalData['01-29-2020'] = "<p><strong>3
-Sitzung des FakultÃ¤tsrats im Ws 19/20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
+Sitzung des Fakultätsrats im Ws 19/20</strong><p style='line-height: 20px;'><strong>Zeit:</strong> 29
 1
 2020<br><a class='link' href='https://www
 math
 kit
-edu/fakmath/event/fakrat_ws19_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; var enabledDays = ["11-17-2021", "01-10-2020", "12-04-2020", "10-09-2020", "10-30-2020", "09-21-2020", "03-14-2020", "03-14-2020", "02-05-2020", "01-06-2020", "07-08-2021", "05-06-2021", "06-17-2021", "01-28-2021", "12-03-2020", "11-12-2020", "05-07-2020", "06-18-2020", "07-09-2020", "01-30-2020", "01-09-2020", "04-29-2021", "01-16-2020", "05-11-2021", "02-23-2021", "01-16-2020", "01-21-2020", "01-14-2020", "12-10-2021", "12-20-2021", "11-15-2021", "10-18-2021", "12-08-2021", "11-17-2021", "10-06-2021", "11-03-2021", "12-01-2021", "10-27-2021", "10-18-2021", "01-18-2021", "11-02-2020", "07-19-2021", "09-20-2021", "06-21-2021", "05-17-2021", "04-19-2021", "09-08-2021", "07-28-2021", "07-07-2021", "06-02-2021", "05-05-2021", "04-21-2021", "07-21-2021", "06-09-2021", "04-12-2021", "04-28-2021", "07-24-2021", "12-04-2020", "03-15-2021", "02-15-2021", "12-21-2020", "11-16-2020", "10-19-2020", "12-02-2020", "11-18-2020", "11-04-2020", "10-07-2020", "02-17-2021", "12-09-2020", "10-28-2020", "02-20-2021", "07-17-2020", "09-21-2020", "07-20-2020", "06-15-2020", "05-18-2020", "04-20-2020", "09-09-2020", "07-29-2020", "07-15-2020", "06-10-2020", "05-06-2020", "03-04-2020", "02-05-2020", "01-15-2020", "07-22-2020", "06-03-2020", "04-29-2020", "07-24-2020", "04-20-2020", "03-16-2020", "02-17-2020", "02-17-2020", "02-08-2020", "01-29-2020"]; $('#datepicker')
+edu/fakmath/event/fakrat_ws19_03/' style='outline:none; color: #009682'>weiterlesen</a></p></p>"; var enabledDays = ["10-08-2021", "11-17-2021", "01-10-2020", "12-04-2020", "10-09-2020", "10-30-2020", "09-21-2020", "03-14-2020", "03-14-2020", "02-05-2020", "01-06-2020", "07-08-2021", "05-06-2021", "06-17-2021", "01-28-2021", "12-03-2020", "11-12-2020", "05-07-2020", "06-18-2020", "07-09-2020", "01-30-2020", "01-09-2020", "04-29-2021", "01-16-2020", "05-11-2021", "02-23-2021", "01-16-2020", "01-21-2020", "01-14-2020", "12-10-2021", "12-20-2021", "11-15-2021", "10-18-2021", "12-08-2021", "11-17-2021", "10-06-2021", "11-03-2021", "12-01-2021", "10-27-2021", "10-18-2021", "01-18-2021", "11-02-2020", "07-19-2021", "09-20-2021", "06-21-2021", "05-17-2021", "04-19-2021", "09-08-2021", "07-28-2021", "07-07-2021", "06-02-2021", "05-05-2021", "04-21-2021", "07-21-2021", "06-09-2021", "04-12-2021", "04-28-2021", "07-24-2021", "12-04-2020", "03-15-2021", "02-15-2021", "12-21-2020", "11-16-2020", "10-19-2020", "12-02-2020", "11-18-2020", "11-04-2020", "10-07-2020", "02-17-2021", "12-09-2020", "10-28-2020", "02-20-2021", "07-17-2020", "09-21-2020", "07-20-2020", "06-15-2020", "05-18-2020", "04-20-2020", "09-09-2020", "07-29-2020", "07-15-2020", "06-10-2020", "05-06-2020", "03-04-2020", "02-05-2020", "01-15-2020", "07-22-2020", "06-03-2020", "04-29-2020", "07-24-2020", "04-20-2020", "03-16-2020", "02-17-2020", "02-17-2020", "02-08-2020", "01-29-2020"]; $('#datepicker')
 datepicker({ dateFormat: 'mm-dd-yy', onSelect: function(dateText, inst) { $('
 ui-dialog-title')
 html('Veranstaltungen vom ' + ('0' + (inst
@@ -611,7 +619,7 @@ setDefaults($
 extend($
 datepicker
 regional['de'])); $('#dialog-modal')
-dialog({ autoOpen: false, width: 500, modal: true }); }); FakultÃ¤t fÃ¼r Mathematik D-76128 Karlsruhe Tel
-: +49 721 608-43800 E-Mail: dekanatTzh1âmath
+dialog({ autoOpen: false, width: 500, modal: true }); }); Fakultät für Mathematik D-76128 Karlsruhe Tel
+: +49 721 608-43800 E-Mail: dekanatTzh1∂math
 kit
-edu RSS-Feed KIT â Die ForschungsuniversitÃ¤t in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }
+edu RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

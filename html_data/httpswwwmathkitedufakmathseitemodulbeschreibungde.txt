@@ -1,0 +1,55 @@
+@import url(https://www
+math
+kit
+edu/extensions/skins/mathCMS/skin
+css); @import url(https://www
+math
+kit
+edu/extensions/smoothness/jquery-ui-1
+10
+3
+custom
+css); 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik - Aktualisierung der Modulbeschreibung KIT - Karlsruher Institut für Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen Fakultät für Mathematik Start Fakultät für Mathematik Fakultät für Mathematik Organisation Fakultätsleitung Fakultätsleitung Dekan Prodekan Studiendekan Geschäftsführung Sekretariat Ämter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abteilung für Didaktik Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut für Algebra und Geometrie Institut für Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut für Analysis Institut für Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe Stabilität und Instabilität in Flüssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÜFUNGEN - KLAUSURARCHIV Institut für Angewandte und Numerische Mathematik Institut für Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut für Stochastik Institut für Stochastik AG Computational Statistics AG Räumliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der Fakultät Studiengänge Studiengänge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik Ingenieurpädagogik Diplomstudiengänge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen für Studierende Informationen für Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung für Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft Modulhandbücher und Studienpläne Modulhandbücher und Studienpläne Archiv Prüfungsordnungen Vorlesungsangebot Vorlesungsangebot Zukünftige Veranstaltungen Archiv Lehre für andere Fakultäten Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Startseite Fakultät für Mathematik Institute Forschung Studium und Lehre Personen Fakultät für Mathematik Organisation Fakultätsleitung Ämter und Kommissionen Infos Studiendekan Abteilung für Didaktik Rechnerabteilung Fachbibliothek Mathematik Podcast Geschichte Anreise Kontakt Kooperationen Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Modulbeschreibung Aktualisierung der Modulbeschreibung Bitte überprüfen Sie die Modulbeschreibungen Ihrer für das kommende Semester geplanten Vorlesungen und sprechen Sie eventuelle Änderungen mit den betroffenen Kolleginnen und Kollegen ab
+ Eine Orientierung zur Berechnung von LPen (1,5LP pro VL SWS, 1LP pro Ü SWS): 2+0 3 LP 2+1 4 LP 2+2 5 LP 3+1 5,5 also 6 LP 3+2 6,5 also 7 LP 4+0 6 LP 4+2 8 LP Begründete Ausnahmen sind möglich
+ Für die Berechnung des Aufwandes in der Modulbeschreibung gilt ebenfalls: 1SWS = 60 Minuten Beachten Sie bei den Modulbeschreibungen bitte Folgendes: 1) Abbildungsrelevante Änderungen (vor allem Namen, LP oder SWS einer Vorlesung, Vorleistungen und Prüfungsform) sollten möglichst vermieden werden
+ 2) Die Zahl der Module, die sowohl im Bachelor als auch im Master angeboten werden, soll möglichst niedrig gehalten werden
+ 3) Änderungen und neue Modulbeschreibungen schicken Sie bitte per Email an: in den drei BACHELORstudiengängen an Herrn HERZOG - gerd
+herzog2@kit
+edu in den drei MASTERstudiengängen an Herrn WINTER - steffen
+winter@kit
+edu in den LEHRAMTstudiengängen (Lehrveranstaltungen speziell für das Lehramt) an Frau LENHARDT - ingrid
+lenhardt@kit
+edu Bitte geben Sie bei allen Anfragen zu bestehenden Moduln oder Teilleistungen unbedingt die Kennung (der Form M-MATH-XXXXXX bzw
+ T-MATH-XXXXXX) an
+ 4) Meldung neuer Module: Verwenden Sie dazu bitte die beiden Formulare auf dieser Webseite
+ Bitte geben Sie bei jedem betroffenen Modul genau an, in welchen Studiengängen dieses angeboten werden soll
+ 5) Änderungen bestehender Module: Für die Meldung von Änderungen in bestehenden Modulbeschreibungen (z
+B
+ Inhalt) genügt das Formular "Modulbeschreibung"
+ Sind darüber hinaus abbildungsrelevante Änderungen (z
+B
+ LP, Voraussetzungen, Prüfungsmodalitäten, 
+
+
+) notwendig, so wird auch das Formular "Modulerstellung" benötigt
+ Formulare: modulerstellung
+txt modulbeschreibungen
+txt Fakultät für Mathematik D-76128 Karlsruhe Tel
+: +49 721 608-43800 E-Mail: dekanatTzh1∂math
+kit
+edu RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

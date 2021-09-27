@@ -1,0 +1,60 @@
+@import url(https://www
+math
+kit
+edu/extensions/skins/mathCMS/skin
+css); @import url(https://www
+math
+kit
+edu/extensions/smoothness/jquery-ui-1
+10
+3
+custom
+css); 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik - Datenbanken Mathematik KIT - Karlsruher Institut für Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen Fakultät für Mathematik Start Fakultät für Mathematik Fakultät für Mathematik Organisation Fakultätsleitung Fakultätsleitung Dekan Prodekan Studiendekan Geschäftsführung Sekretariat Ämter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abteilung für Didaktik Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut für Algebra und Geometrie Institut für Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut für Analysis Institut für Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe Stabilität und Instabilität in Flüssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÜFUNGEN - KLAUSURARCHIV Institut für Angewandte und Numerische Mathematik Institut für Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut für Stochastik Institut für Stochastik AG Computational Statistics AG Räumliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der Fakultät Studiengänge Studiengänge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik Ingenieurpädagogik Diplomstudiengänge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen für Studierende Informationen für Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung für Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft Modulhandbücher und Studienpläne Modulhandbücher und Studienpläne Archiv Prüfungsordnungen Vorlesungsangebot Vorlesungsangebot Zukünftige Veranstaltungen Archiv Lehre für andere Fakultäten Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Startseite Fakultät für Mathematik Institute Forschung Studium und Lehre Personen Fakultät für Mathematik Organisation Fakultätsleitung Ämter und Kommissionen Infos Studiendekan Abteilung für Didaktik Rechnerabteilung Fachbibliothek Mathematik Podcast Geschichte Anreise Kontakt Kooperationen Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Datenbanken Datenbanken Mathematik zbMATH Die Datenbank Zentralblatt MATH ist eine zentrale bibliographische Datenbank auf dem Gebiet der Mathematik und ihrer Anwendungen
+ Sie referiert und dokumentiert in multilingualer Form neben Originalarbeiten aus über 3
+000 mathematischen Zeitschriften und Reihen auch Buchbesprechungen und Konferenzberichte aus der reinen und angewandten Mathematik sowie angrenzenden Gebieten wie z
+B
+ Informatik und theoretischer Physik
+ Die einzelnen, von der Redaktion oder von unabhängigen Wissenschaftlern erstellten Referate erscheinen überwiegend in englischer Sprache, teilweise werden auch Abstracts der Originalarbeiten abgedruckt
+ Enthalten sind über 3,7 Mio
+ Einträge aus dem Zeitraum 1868 - heute (Stand: Okt
+ 2016)
+ Das Zentralblatt MATH wächst jährlich um ca
+ 85
+000 neue Datensätze
+ Die Daten des Jahrbuchs über die Fortschritte der Mathematik (1868-1942) sind vollständig integriert
+ MathEducDatabase Onlineversion des Dokumentationsteils des Zentralblatts für Didaktik der Mathematik (ZDM): umfassender Informationsdienst auf dem Gebiet der Didaktik der Mathematik und Informatik mit ca
+ 160
+000 Einträgen (Stand: Sept
+ 2016), die mehr als 1000 deutsche und internationale Quellen auswerten: Zeitschriften, Serien, Bücher, Forschungsberichte, Dissertationen, Lehrhandreichungen und -pläne, Curricula, Spiele, Software, audiovisuelle Medien
+ Jedes Jahr werden ca
+ 5
+500 Einträge hinzugefügt
+ Der überwiegende Teil der Einträge ist mit einem Abstract versehen
+ MathSciNet Datenbank der American Mathematical Society
+ MathSciNet ist die Online-Version des Referateblattes Mathematical Reviews und der laufenden Fachbibliographie Current Mathematical Publications
+ Enthalten sind bibliographische Daten und Abstracts von Zeitschriftenaufsätzen und Büchern sowie Neuerscheinungen auf dem Gebiet der Mathematik
+ Ausgewertet werden ca
+ 1900 internationale Serien und Zeitschriften seit 1940 (sowie ca
+ 47
+000 Nachweise aus dem Zeitraum 1810-1940)
+ Erschlossen wird die Datenbank über die Mathematics Subject Classification (MSC)
+ Die integrierte Autorendatenbank ermöglicht das Auffinden der Publikationen eines individuellen Verfassers auch bei Varianten des Namens oder gleichlautenden Namen unterschiedlicher Autoren
+ Die Datenbank wird täglich aktualisiert
+ Fachinformationsdienst Mathematik Der Fachinformationsdienst Mathematik ermöglicht Ihnen einen zentralen Sucheinstieg zu vielen mathematikspezifischen Informationsquellen
+ Fachbibliothek Mathematik Adresse KIT Campus Süd Gebäude 20
+30 (Kollegiengebäude Mathematik) Englerstr
+ 2 Öffnungszeiten Montag - Freitag, 9:00 - 19:00 Uhr (auch in den Semesterferien) eMail: mb@bibliothek
+kit
+edu Tel
+: +49 721 608-43313 RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

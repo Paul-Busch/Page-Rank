@@ -1,0 +1,82 @@
+@import url(https://www
+math
+kit
+edu/extensions/skins/mathCMS/skin
+css); @import url(https://www
+math
+kit
+edu/extensions/smoothness/jquery-ui-1
+10
+3
+custom
+css); 
+ui-datepicker { width: 90%; } KIT - Fakultät für Mathematik - Verwaltung der Abschlussarbeiten in CAS Campus KIT - Karlsruher Institut für Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Fakultät für Mathematik Home Intranet Impressum Datenschutz KIT KIT en suchen suchen Fakultät für Mathematik Start Fakultät für Mathematik Fakultät für Mathematik Organisation Fakultätsleitung Fakultätsleitung Dekan Prodekan Studiendekan Geschäftsführung Sekretariat Ämter und Kommissionen Infos Studiendekan Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abteilung für Didaktik Abteilung für Didaktik Online Labor Angebote für Schulen Lehrveranstaltungen AK Fachdidaktik BW Didaktik-Kolloquium Newsletter Rechnerabteilung Fachbibliothek Mathematik Fachbibliothek Mathematik Bibliothekskataloge Datenbanken Zeitschriften Ausleihe Fachverlage Podcast Geschichte Anreise Kontakt Kooperationen Institute Start Institute Institute Institut für Algebra und Geometrie Institut für Algebra und Geometrie Arbeitsgruppe Differentialgeometrie Arbeitsgruppe Diskrete Mathematik Arbeitsgruppe Metrische Geometrie Arbeitsgruppe Topologie Arbeitsgruppe Zahlentheorie und Algebraische Geometrie Arbeitsgruppe Gruppen, Geometrie und Dynamik (Ehem
+) Arbeitsgruppe Konvexe Geometrie Institut für Analysis Institut für Analysis Arbeitsgruppe Angewandte Analysis Arbeitsgruppe Nichtlineare Partielle Differentialgleichungen Arbeitsgruppe Funktionalanalysis Nachwuchsgruppe Nichtlineare Helmholtzgleichungen Nachwuchsgruppe Singularity formation in nonlinear PDEs Nachwuchsgruppe "Analysis of PDEs" Nachwuchsgruppe Stabilität und Instabilität in Flüssigkeiten und Materialien Ehemalige Nachwuchsgruppen PRÜFUNGEN - KLAUSURARCHIV Institut für Angewandte und Numerische Mathematik Institut für Angewandte und Numerische Mathematik Arbeitsgruppe 1: Numerik Arbeitsgruppe 2: Numerik partieller Differentialgleichungen Arbeitsgruppe 3: Wissenschaftliches Rechnen Arbeitsgruppe 4: Inverse Probleme Arbeitsgruppe 5: Computational Science and Mathematical Methods Nachwuchsgruppe: Numerical analysis of multiscale methods Nachwuchsgruppe: Wellen in periodischen Strukturen Institut für Stochastik Institut für Stochastik AG Computational Statistics AG Räumliche Stochastik und Stochastische Geometrie AG Stochastische Prozesse in der Finanz-, Versicherungsmathematik und Technik AG Statistische Modell-Validierung -> Veranstaltungen -> Studium und Lehre -> Publikationen -> Dissertationen -> Statistische Beratung -> Personen Forschung Start Forschung Forschung Forschungsschwerpunkte Forschungsschwerpunkte Partielle Differentialgleichungen Geometrie, Gruppen und Topologie Stochastische Modelle Sonderforschungsbereich Sonderforschungsbereich Neues Graduiertenkolleg 2229 Graduiertenkolleg 2229 Graduiertenkolleg 1294 Graduiertenkolleg 1294 Members Fellows Publications Forschung List of Projects Events Lehrangebot Offene Stellen Internal Pages Contact/Organization Promotionen / Habilitationen Promotionen / Habilitationen Handreichungen zur Promotionsordnung 2012 Handreichungen zur Promotionsordnung 2016 Doktorandenkonvent Studium und Lehre Start Studium und Lehre Studium und Lehre Studieninteressierte Studieninteressierte Studieninformationswoche 2020 Lehrpreise der Fakultät Studiengänge Studiengänge Bachelor Mathematik Bachelor Technomathematik Bachelor Wirtschaftsmathematik Lehramt Mathematik Master Mathematik Master Technomathematik Master Wirtschaftsmathematik Ingenieurpädagogik Diplomstudiengänge Master program in English Master program in English Program details Study plan Classes Social Events Studieren im Ausland Studieren im Ausland Erasmus Informationen für Studierende Informationen für Studierende Fachstudienberatung Studieneingangsphase Studierendenzentrum Mathematik Formulare Klausurtermine Anmeldung für Proseminare Abschlussarbeiten Mutterschutz Nachteilsausgleich Fachschaft Modulhandbücher und Studienpläne Modulhandbücher und Studienpläne Archiv Prüfungsordnungen Vorlesungsangebot Vorlesungsangebot Zukünftige Veranstaltungen Archiv Lehre für andere Fakultäten Studium im Sommer 2021 Studium im Winter 2021/22 Personen Startseite Home Impressum Datenschutz suchen suchen Fakultät für Mathematik Startseite Fakultät für Mathematik Institute Forschung Studium und Lehre Personen Fakultät für Mathematik Organisation Fakultätsleitung Ämter und Kommissionen Infos Studiendekan Abteilung für Didaktik Rechnerabteilung Fachbibliothek Mathematik Podcast Geschichte Anreise Kontakt Kooperationen Infos Studiendekan Seminarverbuchung Abschlussarbeiten Modulbeschreibung International Day of Mathematics Online Lehre Modulhandbücher Winter 2021/22 Planung SoSe 21 und Alternativen zu Präsenzklausuren (22
+12
+2020) Neue Verfahrensweise ab SoSe21 bei Raumbuchungen für schriftliche Prüfungen (12
+03
+2021) Info-Mails zum Sommersemester 2021 Abschlussarbeiten Verwaltung der Abschlussarbeiten in CAS Campus Für unsere in Campus verwalteten Studierenden müssen die Abschlussarbeiten von den Prüferinnen und Prüfern (siehe unten) und den Prüfungsbearbeiterinnen uns -bearbeitern selbst angelegt werden
+ Alternativ zum Anlegen durch Prüfer/innen können Sie auch die Hilfe von Herrn Amoroso vom Studierendenzentrums Mathematik in Anspruch nehmen: http://www
+math
+kit
+edu/lehre/seite/stuzema/de Für die Verwaltung der Abschlussarbeiten in CAS Campus sind die folgenden Schritte erforderlich: 1) Die Abschlussarbeit wird von der Prüferin bzw
+ vom Prüfer in CAS angelegt
+ 2) Der/Die Studierende wird hiervon per Mail benachrichtigt und kann sich für diese Arbeit anmelden
+ Wichtig: Die Prüferin oder der Prüfer (bzw
+ diejenige Person, die die Abschlussarbeit in CAS anlegt) setzt mit einem "+" das zuständige Sekretariat (s
+u
+) als "Prüfungsbearbeiter" in Kopie
+ 3) Danach wird der offizielle Beginn der Arbeit von der Prüferin/dem Prüfer in CAS eingetragen
+ Ab diesem Datum beginnt die Bearbeitungsfrist der Abschlussarbeit
+ 4) Nach Abgabe der Arbeit wird die fristgerechte Abgabe von der Prüferin/dem Prüfer in CAS bestätigt und die Frist für die Erstellung der Gutachten läuft (6 Wochen bei BSc-Arbeiten, 8 Wochen bei MSc-Arbeiten)
+ Diese werden an die zuständigen Sekretariate (s
+u
+) weitergegeben
+ 5) Prüferinnen und Prüfer tragen auch die Note selbst im System ein
+ Wichtig: Bitte korrigieren Sie beim Noteneintrag ggf
+ den endgültigen Titel der Abschlussarbeit
+ 6) Die Note wird vom Leistungskoordinator (Herr Amoroso) freigegeben, sofern die Noten auf den Gutachten übereinstimmen bzw
+ der Prüfungsausschuss die Note endgültig festgelegt hat
+ Erst dann kann der/die Studierende die Note in Campus sehen
+ 4,0 Bescheinigungen Es besteht weiterhin die Möglichkeit, über eine 4,0-Bescheinigung die Arbeit vor Feststehen der Endnote als bestanden zu akzeptieren
+ Bitte schicken Sie ggf
+ diese 4,0-Bescheinigung an die zuständigen Sekretariate; diese werden sie zur Verbuchung an den Leistungskoordinator weiterleiten
+ Damit wird die Arbeit im System auf den Status "bestanden" gesetzt
+ Ist das die letzte Prüfungsleistung im Studiengang, ist damit der Studiengang insgesamt bestanden und der/die Studierende kann sich entsprechende Bescheinigungen für Bewerbungen erzeugen
+ Die Erstellung des Zeugnisses wird allerdings erst in Angriff genommen, wenn die Endnote für die Arbeit verbucht ist
+ Bachelor/Master of Education Diese Abschlussarbeiten werden nicht mehr vom Landeslehrerprüfungsamt verwaltet
+ Sie müssen durch den Prüfungsausschuss in Person des Fachstudienberaters genehmigt werden
+ Bitte senden Sie Gutachten sowohl für den Bachelor als auch den Master of Education an Frau Hoffmann, ute
+hoffmann@kit
+edu
+ Wer ist Prüferin oder Prüfer? Gemäß unseren Prüfungsordnungen sind folgende Personengruppen als Prüferinnen oder Prüfer vorgesehen: Hochschullehrer/innen, leitende Wissenschaftler/innen gemäß § 14 Abs
+ 3 Ziff
+ 1 KITG und habilitierte Mitglieder der KIT-Fakultät Mathematik
+ Darüber hinaus hat der Fakultätsrat beschlossen, dass jede akademische Rätin und jeder akademische Rat als Prüferin bzw
+ Prüfer für Bachelor Abschlußarbeiten agieren kann
+ Zusätzlich kann der Prüfungsausschuss weitere Prüfende zur Vergabe eines Themas berechtigen
+ Abschlussarbeiten außerhalb der Fakultät für Mathematik Abschlussarbeiten, die außerhalb der KIT-Fakultät für Mathematik (im MSc Wirtschaftsmathematik: außerhalb der KIT-Fakultäten für Mathematik oder Wirtschaftswisenschaften) angefertigt werden sollen, müssen durch den Prüfungsausschuss in Person des Fachstudienberaters genehmigt werden
+ Zuständige Sekretariate: alle Bachelorstudiengänge: Frau Hoffmann, ute
+hoffmann@kit
+edu Master Mathematik: Frau Colin, andrea
+colin@kit
+edu Master Technomathematik: Frau Schreiber-Schmoeger, henriette
+schreiber-schmoeger@kit
+edu Master Wirtschaftsmathematik: Frau Regelin, michaela
+regelin@kit
+edu Bachelor und Master of Education: Frau Hoffmann, ute
+hoffmann@kit
+edu Fragen/Probleme: gerne berät Sie Herr Amoroso im Studierendenzentrum Mathematik
+ Fakultät für Mathematik D-76128 Karlsruhe Tel
+: +49 721 608-43800 E-Mail: dekanatTzh1∂math
+kit
+edu RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Impressum Datenschutz KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

@@ -1,0 +1,101 @@
+div#head-image{ background-image:url('/img/intern/17_V2
+jpg'); } document
+documentElement
+classList
+remove('no-js'); KIT - Karlsruher Institut für Technologie KIT - Karlsruher Institut für Technologie 
+cls-1,
+cls-2,
+cls-3{fill-rule:evenodd;}
+cls-2{fill:#fff;}
+cls-3{fill:#009682;} Navigation überspringen Home Leichte Sprache Gebärdensprache Impressum Datenschutz Barrierefreiheit Sitemap Intranet KIT en suchen suchen Das KITStartDas KITDas KITProfilStartDas KITProfilProfilMissionExzellenzStartDas KITProfilExzellenzExzellenzExzellenzuniversitätExzellenzclusterForschungsuniversität in der Helmholtz-GemeinschaftZahlen, Daten, FaktenStartDas KITProfilZahlen, Daten, FaktenZahlen, Daten, FaktenRankingsOrganisationStartDas KITOrganisationOrganisationLeitungOrgane und GremienStartDas KITOrganisationOrgane und GremienOrgane und GremienAufsichtsratPräsidiumBereichsleitungKIT-SenatKonventBeauftragtePersonalvertretungenVerfasste StudierendenschaftBereicheStartDas KITOrganisationBereicheBereicheInstituteKIT-FakultätenHGF-ProgrammeKIT-ZentrenVerwaltungProjektträger KarlsruheMenschenStartDas KITMenschenMenschenPreisträgerinnen und PreisträgerPersönlichkeitenGeschichteMedienStartDas KITMedienMedienPresseinformationenStartDas KITMedienPresseinformationenPresseinformationenPI 2021Archiv PresseinformationenNewsStartDas KITMedienNewsNewsNews 2021DossiersSocial MediaJahresberichtePublikationenAudioRund um das KITStartDas KITRund um das KITRund um das KITKIT für AlleKultur und SportStudentische EinrichtungenFördervereineVeranstaltungenStartDas KITRund um das KITVeranstaltungenVeranstaltungenVeranstaltungskalenderStandorteStartDas KITStandorteStandorteInteraktiver CampusplanThemenStartThemenThemenEnergieMobilitätInformationKlima und UmweltMaterialienMensch und TechnikElementar- und AstroteilchenphysikMathematik in der AnwendungStudiumStartStudiumStudiumVor dem StudiumIm StudiumNach dem StudiumKIT-FakultätenRat und HilfeLeben und Lernen in KarlsruheAngebote für Schülerinnen und SchülerForschungStartForschungForschungThemenStartForschungThemenThemenEnergieMobilitätInformationKlima und UmweltMaterialienMensch und TechnikElementar- und AstroteilchenphysikMathematik in der AnwendungExzellenzStartForschungExzellenzExzellenzExzellenzuniversitätExzellenzclusterHelmholtz-ProgrammeForschungsverbündeStartForschungForschungsverbündeForschungsverbündeSonderforschungsbereicheDFG-ForschungsgruppenWeitere ForschungsgruppenWissenschaftlicher NachwuchsStartForschungWissenschaftlicher NachwuchsWissenschaftlicher NachwuchsQualifikation zur ProfessurStartForschungWissenschaftlicher NachwuchsQualifikation zur ProfessurQualifikation zur ProfessurYoung Investigator Group Preparation ProgramKIT-NachwuchsgruppeKIT Associate FellowTenure-Track-ProfessurPostdoc-PhasePromotionStartForschungWissenschaftlicher NachwuchsPromotionPromotionGraduiertenschulenGraduiertenkollegsPromotionsprogrammeForschungsinfrastrukturenGute wissenschaftliche PraxisInnovationStartInnovationInnovationTechnologietransferKooperationInnovation in Forschung und LehreGründenKarriereStartKarriereKarriereKarrierewegeStartKarriereKarrierewegeKarrierewegeProfessurenWissenschaftliche MitarbeitendeWissenschaftlicher NachwuchsStartKarriereKarrierewegeWissenschaftlicher NachwuchsWissenschaftlicher NachwuchsPromotionPostdoktoratQualifikation zur ProfessurVerwaltung und TechnikSchüler und StudierendeStartKarriereSchüler und StudierendeSchüler und StudierendeAngebote für Schülerinnen und SchülerStartKarriereSchüler und StudierendeAngebote für Schülerinnen und SchülerAngebote für Schülerinnen und SchülerSchülerlaboreStudienbotschafterinnenStartKarriereSchüler und StudierendeAngebote für Schülerinnen und SchülerStudienbotschafterinnenStudienbotschafterinnenMathematik und PhysikStartKarriereSchüler und StudierendeAngebote für Schülerinnen und SchülerStudienbotschafterinnenMathematik und PhysikMathematik und PhysikJulianeCarinaPatriciaElektrotechnik und InformationstechnikStartKarriereSchüler und StudierendeAngebote für Schülerinnen und SchülerStudienbotschafterinnenElektrotechnik und InformationstechnikElektrotechnik und InformationstechnikSophieAnn-SophieChemieingenieurwesen und VerfahrenstechnikStartKarriereSchüler und StudierendeAngebote für Schülerinnen und SchülerStudienbotschafterinnenChemieingenieurwesen und VerfahrenstechnikChemieingenieurwesen und VerfahrenstechnikLauraJohannesKIT als ArbeitgeberBewerbungsprozessStellenangebote Home Leichte Sprache Gebärdensprache Impressum Datenschutz Barrierefreiheit Sitemap Intranet suchen suchen KIT Science Week Der Mensch im Zentrum Lernender Systeme Exzellenz Das KIT ist eine von elf „Exzellenzuniversitäten“ in Deutschland
+ Forschungsuniversität in der Helmholtz-Gemeinschaft Das KIT verbindet als einzige deutsche Exzellenzuniversität lange universitäre Tradition mit nationaler Großforschung
+ Nachhaltig Bauen Das KIT arbeitet an Lösungen für die Bauprojekte der Zukunft Exzellenz Das KIT ist eine von elf „Exzellenzuniversitäten“ in Deutschland
+ Forschungsuniversität in der Helmholtz-Gemeinschaft Das KIT verbindet als einzige deutsche Exzellenzuniversität lange universitäre Tradition mit nationaler Großforschung
+ Wissen­schaftlicher NachwuchsStudien­interessierte Wissen­schaftlicher NachwuchsStudien­interessierte Aktuelles Forschung für sichere Feststoffbatterien Im Projekt ALANO entwickeln Industrie und Wissenschaft innovative Konzepte für Akkus mit Lithiummetall-Anode – Forschende des KIT untersuchen elektrochemische Aspekte Mehr Klimaforschung: Auswirkungen von Staub aus einer kalten Wüste Internationale Feldkampagne untersucht Emission, Transport und Zusammensetzung von Staub in Island Mehr StoRIES: Neuer Schub für die Energiespeicherforschung in Europa Mit dem „Green Deal“ in Europa startet am KIT ein neues europäisches Forschungskonsortium zur Energiespeicherung
+ Mehr Karlsruhe im Zeichen von KI und Digitalisierung Bahnbrechende Innovationen und außergewöhnliche Einblicke in die Forschung: KIT Science Week meets InnovationFestival @karlsruhe
+digital Mehr FAQ zum Coronavirus Laufend aktualisierte Fragen und Antworten zum Umgang mit dem Coronavirus: Dienstreisen / Wintersemester 2021/22 (Stand: 23
+09
+2021) Mehr Corona-Pandemie: Forschung am KIT Das KIT unterstützt bei der Bewältigung der Coronakrise mit Forschungs- und Sachbeiträgen und wissenschaftlich-technischen Dienstleistungen
+Mehr modus: medien + kommunikation gmbh lookKIT Die aktuelle Ausgabe des Forschungsmagazins widmet sich dem Thema Bauen
+Mehr VeranstaltungenOnline-Veranstaltung "Fit durchs erste Semester!"27
+09
+2021 11:00 - 11:30 Die Veranstaltung richtet sich an alle Erstsemesterstudierenden, die sich zu Studienbeginn eine erste, allgemeine Orientierung verschaffen wollen
+ Die Informationen sind nicht studiengangspezifisch
+ Die Veranstaltung wird in deutscher Sprache durchgeführt
+ Sollten Sie kurzfristig an der Veranstaltung nicht teilnehmen können, bitten wir Sie uns dies per E-Mail mitzuteilen, um anderen Interessierten auf der Warteliste das Nachrücken zu ermöglichen
+ Hinweis: Die Veranstaltung findet über zoom statt
+ Zeitnah vor Veranstaltungsbeginn wird der Link zum Meetingraum per Email an die bei der Anmeldung benutzten Emailadresse verschickt
+ Um an der Veranstaltung teilzunehmen, wird ein Laptop, Tablet oder Handy mit Internetzugang und Kamera benötigt
+ zum Veranstaltungskalender30
+09
+2021Online-Veranstaltung "Fit durchs erste Semester!"Die Veranstaltung richtet sich an alle Erstsemesterstudierenden, die sich zu Studienbeginn eine erste, allgemeine Orientierung verschaffen wollen
+ Die Informationen sind nicht studiengangspezifisch
+ Die Veranstaltung wird in deutscher Sprache durchgeführt
+ Sollten Sie kurzfristig an der Veranstaltung nicht teilnehmen können, bitten wir Sie uns dies per E-Mail mitzuteilen, um anderen Interessierten auf der Warteliste das Nachrücken zu ermöglichen
+ Hinweis: Die Veranstaltung findet über zoom statt
+ Zeitnah vor Veranstaltungsbeginn wird der Link zum Meetingraum per Email an die bei der Anmeldung benutzten Emailadresse verschickt
+ Um an der Veranstaltung teilzunehmen, wird ein Laptop, Tablet oder Handy mit Internetzugang und Kamera benötigt
+ 04
+10
+2021Kunst Kurz und KnappKunstführung zur Arbeit von Michaela Kölmel, Ohne Titel, 1991 Dauer: 10-15 Minuten Die Teilnehmerzahl ist begrenzt, deshalb ist eine Anmeldung unter kunst@kit
+edu dringend erforderlich
+ 05
+10
+2021KIT Science Week Die KIT Science Week ist ein neues Veranstaltungsformat des KIT und bündelt eine internationale Konferenz für ein wissenschaftliches Fachpublikum mit spannenden Veranstaltungen für die Öffentlichkeit
+ Vom 5
+ bis 10
+ Oktober 2021 findet sie erstmals statt am KIT, in der Stadt und Online statt
+ Die erste KIT Science Week befasst sich mit Künstlicher Intelligenz und trägt den Titel: „Der Mensch im Zentrum Lernender Systeme“
+ Mit den unterschiedlichsten Programmformaten betrachten wir in dieser Woche die gesamte Breite der KI-Anwendungen in Produktion und Arbeitswelt, Mobilität, Gesundheit, Pflege und Haushalt, Wetter, Klima und Kommunikation
+ Gemeinsam mit Politik, Wirtschaft und den Bürgerinnen und Bürgern diskutieren wir bei der KIT Science Week die Chancen und Risiken von Künstlicher Intelligenz, ebenso, wie sich KI zum Wohle unserer Gesellschaft nutzen lässt
+ Ob Impulsvortrag, TEDxKIT-Talk, Podiumsdiskussion, Ausstellung, Bürgerdialog oder Führung: während der KIT Science Week erhalten Wissenschafts- und Kulturbegeisterte exklusive Einblicke in die unterschiedlichsten Facetten der Forschung in der thematischen Bandbreite der Lernenden Systeme
+ Informationen zum Programm und allen Einzelveranstaltungen finden Sie in unserer www
+scienceweek
+kit
+edu
+ 05
+10
+2021IECO Days 2021The German-Chilean project IECO is hosting the second edition of the IECO Days on October 5 and 6, 2021
+ On day one, a special session directed to students interested in entrepreneurship will allow an exchange with successful Start-Ups and introduce the students to the Ideation process
+ In a parallel event, an expert panel will discuss the potential and challenges of technology transfer in the field of green hydrogen
+ On the second day, there will be scientific sessions in the topics of Eco-Industrial Development
+ Scientists, advanced students and professionals are welcome
+ For the full program and registration, please visit the IECO Event website: https://ieco-institute
+com/events
+html If you have questions please contact IECO coordinator Dr
+ Gabriela Espinosa (gabriela espinosa∂kit edu)
+ 05
+10
+2021Offizielle Eröffnung der KIT Science Week 2021 mit Keynote von Medieninformatikerin Prof
+ Dr
+ Susanne BollKünstliche Intelligenz ist eine Technologie, die alles verändert
+ Aber welche Chancen und neuen Möglichkeiten öffnet KI für die Gesellschaft? Erste Antworten geben Professor Holger Hanselka, Präsident des KIT, Thomas Strobl, Stellvertretender Ministerpräsident des Landes Baden-Württemberg, und Gabriele Luczak-Schwarz, Erste Bürgermeisterin der Stadt Karlsruhe, im Rahmen der offiziellen Eröffnung der KIT Science Week
+ Ein Vortrag der international renommierten Expertin für Mensch-Computer-Interaktion, Professorin Susanne Boll, rundet das Programm ab
+ Sie ist Professorin an der Universität Oldenburg und forscht mit Leidenschaft an der Entwicklung interaktiver Technologien zum Wohle des Menschen in zunehmend automatisierten und KI-gestützten Lebens- und Arbeitswelten
+ Im Anschluss stellt sich Susanne Boll den Fragen des Publikums
+ Bitte informieren Sie sich kurz vor dem Termin auf der Website www
+scienceweek
+kit
+edu, auf welche Art wir die Eröffnungsveranstaltung durchführen
+ Die geltenden Corona-Hygienemaßnahmen vor Ort finden Sie unter: https://www
+scienceweek
+kit
+edu/informationen
+php Für eine Teilnahme in Präsenz bitten wir um die Anmeldung unter: https://bit
+ly/3BNkiDd Eine Teilnahme via Livestream erfordert keine Anmeldung
+ Anfahrt zum Audimax 06
+10
+2021KIT Science Week Die KIT Science Week ist ein neues Veranstaltungsformat des KIT und bündelt eine internationale Konferenz für ein wissenschaftliches Fachpublikum mit spannenden Veranstaltungen für die Öffentlichkeit
+ Vom 5
+ bis 10
+ Oktober 2021 findet sie erstmals statt am KIT, in der Stadt und Online statt
+ Die erste KIT Science Week befasst sich mit Künstlicher Intelligenz und trägt den Titel: „Der Mensch im Zentrum Lernender Systeme“
+ Mit den unterschiedlichsten Programmformaten betrachten wir in dieser Woche die gesamte Breite der KI-Anwendungen in Produktion und Arbeitswelt, Mobilität, Gesundheit, Pflege und Haushalt, Wetter, Klima und Kommunikation
+ Gemeinsam mit Politik, Wirtschaft und den Bürgerinnen und Bürgern diskutieren wir bei der KIT Science Week die Chancen und Risiken von Künstlicher Intelligenz, ebenso, wie sich KI zum Wohle unserer Gesellschaft nutzen lässt
+ Ob Impulsvortrag, TEDxKIT-Talk, Podiumsdiskussion, Ausstellung, Bürgerdialog oder Führung: während der KIT Science Week erhalten Wissenschafts- und Kulturbegeisterte exklusive Einblicke in die unterschiedlichsten Facetten der Forschung in der thematischen Bandbreite der Lernenden Systeme
+ Informationen zum Programm und allen Einzelveranstaltungen finden Sie in unserer www
+scienceweek
+kit
+edu
+ Besuchen Anfahrt Campusplan Veranstaltungen KIT-Shop Bewerben Stellenangebote Studiengänge Ausbildungsplätze Promotionsprogramme Presse Presseinformationen Expertenvermittlung Newsletter Pressekontakt Kontakt Karlsruher Institut für Technologie Tel
+: +49 721 608-0 Fax: +49 721 608-44290 E-Mail: infoDfk1∂kit edu Anschrift Instagram Profil Facebook Profil Twitter Kanal Youtube Profil Mastodon Profil RSS-Feed KIT – Die Forschungsuniversität in der Helmholtz-Gemeinschaft Home Leichte Sprache Gebärdensprache Impressum Datenschutz Barrierefreiheit Sitemap Intranet KIT noSpam(); if (typeof(disable_faq) != 'boolean') { collapseFAQ(); }

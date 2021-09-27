@@ -4,10 +4,13 @@ import urllib3
 import time
 import numpy as np
 import json
+from bs4 import BeautifulSoup
+
+
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-def crawler(link):    
+"""def crawler(link):    
     r = requests.get(link, verify=False)
     li = []
     #print(r.text)
@@ -15,30 +18,46 @@ def crawler(link):
     parser = MyHTMLParser(link, li)
     parser.feed(r.text)
     #print(li)
+    return li"""
+def crawler(link):    
+    r = requests.get(link, verify=False)
+    li = []
+    #print(r.text)
+    
+    parser = MyHTMLParser(link, li)
+    parser.feed(r.text)
+    #print(link.status_code)
+    soup = BeautifulSoup(r.content, 'html.parser')
+    
+    #results = BeautifulSoup(r.content, 'html.parser')
+    s1 = soup.get_text()#strip = True)
+    s1.split("\n")
+    #print(s1)
+    l = s1.split()
+    l= ' '.join(l)
+    l = l.split('.')
+    l = '\n'.join(l)
+    print(l)
+    modified_link = str(link)
+    for char in "/\:#.":
+        modified_link = modified_link.replace(char,"")
+    #print(modified_link)
+    
+
+        
+    #name = str(link) + ".txt"
+    file = open('/Users/Paul/Documents/Uni/Master 5. Semester/Einführung in Python/Page-Rank/html_data/'+modified_link+'.txt', "w+" , encoding="utf-8")
+    file.write(l)
+    file.close()
+    #read = open(modified_link, "r")
+    #for r in read:
+        #print(r)
+    #print(li)
     return li
+    
 
     
-class MyHTMLParser(HTMLParser):
-    def __init__(self, link, li):
-        super().__init__()
-        self.link = link
-        self.li = li
 
-    def handle_starttag(self, tag="a", attrs=""):
-        li = []
-        if tag == "a":
-            for name,values in attrs:
-                if name == "href":
-                    if not "@" in values:
-                        isALetter = False
-                        for l in values:
-                            isALetter = isALetter or l.isalpha()
-                        if isALetter:
-                            if not values[0] == "#" and ".rss" not in values:
-                                if not values[0].isalpha():
-                                    values = self.link + values
-                                #print(values)
-                                self.li.append(values)
     
 
 class Table(): 
@@ -57,7 +76,6 @@ class Table():
                 if not link in table:
                     # don't save duplicates in the lst_missing_keys
                     lst_missing_keys.append(link) if link not in lst_missing_keys else None
-        
         return lst_missing_keys
 
     def create_init_table(self):
@@ -237,6 +255,32 @@ class EvalMatrix():
             sl.write('{0}\n'.format(', '.join(str(n) for n in self.sort_links())))
 
 
+class MyHTMLParser(HTMLParser):
+    def __init__(self, link, li):
+        super().__init__()
+        self.link = link
+        self.li = li
+
+    def handle_starttag(self, tag="a", attrs=""):
+        li = []
+        if tag == "a":
+            for name,values in attrs:
+                if name == "href":
+                    if not "@" in values:
+                        isALetter = False
+                        for l in values:
+                            isALetter = isALetter or l.isalpha()
+                        if isALetter:
+                            if not values[0] == "#" and ".rss" not in values:
+                                if not values[0].isalpha():
+                                    values = self.link + values
+                                #print(values)
+                                self.li.append(values)        
+                          
+
+    
+
+
 
 
 table = Table("https://www.math.kit.edu/").get_table()
@@ -256,7 +300,7 @@ if test == "test1":
 # test for build_matrix_a()
 if test == "test2":
     A = EvalMatrix(table).build_matrix_A()
-    #print(A)
+
 
 # test for calculate_vector_iteration()
 if test == "test3":
@@ -267,3 +311,9 @@ if test == "test3":
 if test == "test4":
     d = EvalMatrix(table).sort_links()
     print("sorted:", d)
+
+
+
+table = Table("https://www.math.kit.edu/").get_table(depth=2)
+eval_matrix = EvalMatrix(table).save_json()
+
