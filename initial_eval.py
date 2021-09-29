@@ -20,14 +20,11 @@ def crawler(link):
     '''
     r = requests.get(link, verify=False)
     li = []
-    #print(r.text)
     
     parser = MyHTMLParser(link, li)
     parser.feed(r.text)
-    #print(link.status_code)
     soup = BeautifulSoup(r.content, 'html.parser')
     
-    #results = BeautifulSoup(r.content, 'html.parser')
     s1 = soup.get_text()#strip = True)
     l = s1
     l = s1.split("\n") #seperate into paragraphs
@@ -46,22 +43,13 @@ def crawler(link):
         pass
 
     l = ''.join(l)
-
     modified_link = str(link)
     for char in "/\:#.":
-        modified_link = modified_link.replace(char,"")
-    #print(modified_link)
-    
+        modified_link = modified_link.replace(char,"")    
 
-        
-    #name = str(link) + ".txt"
     file = open('/Users/Paul/Documents/Uni/Master 5. Semester/Einführung in Python/Page-Rank/html_data/'+modified_link+'.txt', "w+" , encoding="utf-8")
     file.write(l)
     file.close()
-    #read = open(modified_link, "r")
-    #for r in read:
-        #print(r)
-    #print(li)
     return li
     
 
