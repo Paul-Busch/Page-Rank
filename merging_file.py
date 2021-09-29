@@ -45,6 +45,8 @@ def crawler(link):
     except:
         pass
 
+    l = ''.join(l)
+
     modified_link = str(link)
     for char in "/\:#.":
         modified_link = modified_link.replace(char,"")
@@ -74,7 +76,12 @@ class Table():
         self.html_list = crawler(self.html_link)
 
     def find_missing_keys(self, table):
-        # this function searches in the lists (values) of every key for links that are not yet a key
+        '''
+        params: table --> dict
+        returns: lst_missing_keys --> list
+        This function searches in the lists (values) of every key for links that are not yet a key.
+        That means it will iterate over all values (lists) of the dict (table) to find links that are not a key in the table.
+        '''
         # we want every link that is in a list (value) should also be a key  
         # initialize empty list that will contain the missing keys
         lst_missing_keys = []
@@ -86,10 +93,14 @@ class Table():
         return lst_missing_keys
 
     def create_init_table(self):
-        # returns an initale dictionary (table):
-        # keys are all outgoing links of the html_link (starting_link)
-        # values are lists with all outgoing links of the certain key
-        # that means the function creates a table with depth 1 
+        '''
+        params: None
+        returns: init_table --> dict
+        This function creates an initiale dict (table). The keys are all outgoing links of the html_link (starting_link). 
+        The values are lists with all outgoing links of the certain key.
+        That means the function creates a table with depth 1.
+        '''
+
         init_table = dict()
         starting_point = self.html_link
 
@@ -100,35 +111,27 @@ class Table():
         #for link in crawler(starting_point):
         for link in self.html_list:
             if k <= 15:
-                try:
-                    """
-                    if math.kit.edu not in link:
-                        throw exeption
-                    """
-                # hier werden doppelte keys überschrieben
-                #create initial table where keys are from the list of the given html_link
+                try:                   
+                    #create initial table where keys are from the list of the given html_link
+                    # duplicate keys will be overwritten
                     init_table[link] = crawler(link)
                     k += 1
-                    print("alles okay", link)
                 except:
                     self.html_list.remove(link)
-                    print("dieser link funktioniert nicht", link)
+                    print("This link is not working", link)
                     continue
             else:
                 break
-            
-        print("Done")
         return init_table
 
     def update_table(self, table):
-        # updates a given table
-    
-        #table = self.create_init_table()
-        #print("given table is:", table)
-        # find missing keys
+        '''
+        params: table --> dict
+        returns: table --> dict
+        Given the list of missing_keys this function adds these keys to the dict (table) and calls the crawler to get the list_of_links as values for these keys.
+        '''
         missing_keys = self.find_missing_keys(table)
 
-        #print("missing keys are:", missing_keys)
         # missing keys are added to the table
         k = 0
         for link in missing_keys:
@@ -141,14 +144,17 @@ class Table():
             else:
                 break
 
-    def get_table(self, depth=3):
+    def get_table(self, depth=5):
+        '''
+        params: (optional) depth=5 --> int
+        returns: table --> dict
+        This function returns the hash table that can be used to calculate the EvalMatrix with a certain depth. On default the depth is 5 to save your computers life.
+        '''
         # returns table with certain depth (Suchtiefe)
         table = self.create_init_table()
         i = 1
         for i in range(1,depth):
-            print(i)
             self.update_table(table)
-            print("updated table in der Schleife:", table)
         return table
 
 class EvalMatrix():
@@ -166,16 +172,15 @@ class EvalMatrix():
         # key_x is the html_link on the horizontal in the A matrix (x-axis)
         # key_y is the html_link on the vertical in the A matrix (y-axis)
 
-        # count outgoing links:
         L = len(self.table[key_x])
         
-        # calculate x:
-        # the counter represents the number of all outgoing links 
+        # count outgoing links:
         counter = 0
-        for link in self.table[key_x]:     #TODO Paul: macht das Sinn so? (aber tests waren gut)
+        for link in self.table[key_x]:    
             if link == key_y:
                 counter += 1
          
+        # calculate weight:
         if counter == 0:
             return 0
         else:
@@ -198,10 +203,7 @@ class EvalMatrix():
                 A[counter_y,counter_x] = self.calculate_weight(key_x, key_y)
                 counter_y += 1
             counter_x += 1
-
-            # calculate weight for every key
-
-        #calculate the weights for every key in table
+        # calculate weight for every key in table
         return A
     
     def calculate_matrix_M(self):
@@ -257,7 +259,8 @@ class EvalMatrix():
         '''
         params: none
         returns: none
-        saves dict of links and their weights'''
+        saves dict of links and their weights
+        '''
         with open ('sorted.txt', 'w') as sl:
             sl.write('{0}\n'.format(', '.join(str(n) for n in self.sort_links())))
 
@@ -290,15 +293,7 @@ class MyHTMLParser(HTMLParser):
                           
 
     
-
-
-
-
-table = Table("https://www.math.kit.edu/").get_table()
-
-
-#s = EvalMatrix(table)
-#s.save()
+# Here are some tests:
 
 test = ""
 
@@ -325,6 +320,10 @@ if test == "test4":
 
 
 
-table = Table("https://www.math.kit.edu/").get_table(depth=2)
-eval_matrix = EvalMatrix(table).save_json()
+# If you want to download new data you have to set this boolean to True
+download_new_data = False
+
+if download_new_data:
+    table = Table("https://www.math.kit.edu/").get_table(depth=5)
+    eval_matrix = EvalMatrix(table).save_json()
 
