@@ -52,13 +52,24 @@ class SearchEngine():
         # TODO: Paul
         lst_of_lines = []
         with open(data) as f:
-            lines = f.readlines()
+            """lines = f.readlines()
             for line in lines:
                 if self.word in line:
-                    lst_of_lines.append(line)
+                    lst_of_lines.append(line)"""
+            f_liste = f.split(" ")
+            #element = 0
+            for element in range(0, len(f_liste)):
+                if self.word in f_liste[element]:
+                    if element < 5:
+                        lst_of_lines.append(' '.join([f_liste(x) for x in range(0, element+5)]))
+                    elif (len(f_liste) - element) < 5:
+                        lst_of_lines.append(' '.join([f_liste(x) for x in range(element-5, len(f_liste))]))
+                    else:
+                        lst_of_lines.append(' '.join([f_liste(x) for x in range(element-5, element+5)]))
         #print(lst_of_lines)
         return lst_of_lines
 
+        
     #TODO Sontraud: Funktion testen --> dict_full_info ist instanz aus anderer Klasse
     def get_dict_of_lines(self, link, dict_full_info):
         doc = self.get_document(link)
