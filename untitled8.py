@@ -1,24 +1,19 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep  7 08:49:30 2021
+
+@author: sontr
+"""
+
 import requests
 from html.parser import HTMLParser
 import urllib3
 import time
 import numpy as np
 import json
-from bs4 import BeautifulSoup
-
-
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-"""def crawler(link):    
-    r = requests.get(link, verify=False)
-    li = []
-    #print(r.text)
-    
-    parser = MyHTMLParser(link, li)
-    parser.feed(r.text)
-    #print(li)
-    return li"""
 def crawler(link):    
     r = requests.get(link, verify=False)
     li = []
@@ -26,48 +21,31 @@ def crawler(link):
     
     parser = MyHTMLParser(link, li)
     parser.feed(r.text)
-    #print(link.status_code)
-    soup = BeautifulSoup(r.content, 'html.parser')
-    
-    #results = BeautifulSoup(r.content, 'html.parser')
-    s1 = soup.get_text()#strip = True)
-    l = s1
-    #print(l)
-    l = s1.split("\n") 
-    print(l)
-    i = 0
-    try:
-        while i in range(0,len(l)-1):
-            if not l[i]:
-                l[i] = ' '
-                i+=1
-                while not l[i]:
-                    l.pop(i)
-            i+=1
-    except:
-        pass
-    print("\n")
-    print(''.join(l))
-    modified_link = str(link)
-    for char in "/\:#.":
-        modified_link = modified_link.replace(char,"")
-    #print(modified_link)
-    
-
-        
-    #name = str(link) + ".txt"
-    file = open('/Users/Paul/Documents/Uni/Master 5. Semester/Einführung in Python/Page-Rank/html_data/'+modified_link+'.txt', "w+" , encoding="utf-8")
-    file.write(l)
-    file.close()
-    #read = open(modified_link, "r")
-    #for r in read:
-        #print(r)
     #print(li)
     return li
-    
 
     
+class MyHTMLParser(HTMLParser):
+    def __init__(self, link, li):
+        super().__init__()
+        self.link = link
+        self.li = li
 
+    def handle_starttag(self, tag="a", attrs=""):
+        li = []
+        if tag == "a":
+            for name,values in attrs:
+                if name == "href":
+                    if not "@" in values:
+                        isALetter = False
+                        for l in values:
+                            isALetter = isALetter or l.isalpha()
+                        if isALetter:
+                            if not values[0] == "#" and ".rss" not in values:
+                                if not values[0].isalpha():
+                                    values = self.link + values
+                                #print(values)
+                                self.li.append(values)
     
 
 class Table(): 
@@ -86,6 +64,7 @@ class Table():
                 if not link in table:
                     # don't save duplicates in the lst_missing_keys
                     lst_missing_keys.append(link) if link not in lst_missing_keys else None
+        
         return lst_missing_keys
 
     def create_init_table(self):
@@ -148,6 +127,7 @@ class Table():
         # returns table with certain depth (Suchtiefe)
         table = self.create_init_table()
         i = 1
+        print("ich bin hier 3")
         for i in range(1,depth):
             print(i)
             self.update_table(table)
@@ -160,12 +140,6 @@ class EvalMatrix():
         self.table = table
         
     def calculate_weight(self, key_x, key_y):
-        '''
-        params: key_x --> int, key_y --> int
-        returns: weight of for link_x w.r.t. link_y, 
-        the weight is calculated with: number_of_ingoing_links_from_page_y/outgoing_links_of_page_x
-        '''
-
         # key_x is the html_link on the horizontal in the A matrix (x-axis)
         # key_y is the html_link on the vertical in the A matrix (y-axis)
 
@@ -175,7 +149,7 @@ class EvalMatrix():
         # calculate x:
         # the counter represents the number of all outgoing links 
         counter = 0
-        for link in self.table[key_x]:     #TODO Paul: macht das Sinn so? (aber tests waren gut)
+        for link in self.table[key_x]:
             if link == key_y:
                 counter += 1
          
@@ -185,11 +159,6 @@ class EvalMatrix():
             return counter/L           
 
     def build_matrix_A(self):
-        '''
-        params: None
-        returns: Matrix A
-        Matrix A represents the connections between the links
-        '''
         sorted_keys = sorted(self.table)
 
         # initialize A as a zero matrix
@@ -208,20 +177,11 @@ class EvalMatrix():
         return A
     
     def calculate_matrix_M(self):
-        '''
-        params: None
-        returns: Matrix M
-        Matrix M is used to calculate the eigenvectors of the matrix A in a numeric way
-        '''
         B = np.ones((len(self.table), len(self.table)))
         M = (1 - 0.15) * self.build_matrix_A() + (0.15 / len(self.table)) * B
         return M 
 
     def calculate_vector_iteration(self):
-        '''
-        params: None
-        returns: eigenvector x_k1 to eigenvalue 1
-        '''
         M = self.calculate_matrix_M()
         # start with x_0
         x_k = np.ones(len(self.table))
@@ -233,10 +193,6 @@ class EvalMatrix():
         return x_k1
 
     def sort_links(self):
-        '''
-        params: None
-        returns: dictionary with links as keys and their weight as values sorted by weight
-        '''
         d = {}
         x = self.calculate_vector_iteration()
         links = list(self.table.keys())
@@ -247,48 +203,13 @@ class EvalMatrix():
         return d2
 
     def save_json(self):
-        '''
-        params: none
-        returns: none
-        This function saves the dict including the links as keys and their rank as values
-        '''
         dic = self.sort_links()
         with open("sorted.json", "w") as outfile:
             json.dump(dic, outfile)
 
     def save(self):
-        '''
-        params: none
-        returns: none
-        saves dict of links and their weights'''
         with open ('sorted.txt', 'w') as sl:
             sl.write('{0}\n'.format(', '.join(str(n) for n in self.sort_links())))
-
-
-class MyHTMLParser(HTMLParser):
-    def __init__(self, link, li):
-        super().__init__()
-        self.link = link
-        self.li = li
-
-    def handle_starttag(self, tag="a", attrs=""):
-        li = []
-        if tag == "a":
-            for name,values in attrs:
-                if name == "href":
-                    if not "@" in values:
-                        isALetter = False
-                        for l in values:
-                            isALetter = isALetter or l.isalpha()
-                        if isALetter:
-                            if not values[0] == "#" and ".rss" not in values:
-                                if not values[0].isalpha():
-                                    values = self.link + values
-                                #print(values)
-                                self.li.append(values)        
-                          
-
-    
 
 
 
@@ -310,7 +231,7 @@ if test == "test1":
 # test for build_matrix_a()
 if test == "test2":
     A = EvalMatrix(table).build_matrix_A()
-
+    #print(A)
 
 # test for calculate_vector_iteration()
 if test == "test3":
@@ -321,9 +242,3 @@ if test == "test3":
 if test == "test4":
     d = EvalMatrix(table).sort_links()
     print("sorted:", d)
-
-
-
-table = Table("https://www.math.kit.edu/").get_table(depth=2)
-eval_matrix = EvalMatrix(table).save_json()
-
