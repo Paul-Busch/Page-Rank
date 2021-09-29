@@ -285,7 +285,8 @@ class MyHTMLParser(HTMLParser):
                             if not values[0] == "#" and ".rss" not in values:
                                 if not values[0].isalpha():
                                     values = self.link + values
-                                self.li.append(values)        
+                                if "kit.edu" in values:
+                                    self.li.append(values)        
                           
 
     
