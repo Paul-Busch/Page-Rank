@@ -69,7 +69,7 @@ class SearchEngine():
         #print(lst_of_lines)
         return lst_of_lines
 
-        
+
     #TODO Sontraud: Funktion testen --> dict_full_info ist instanz aus anderer Klasse
     def get_dict_of_lines(self, link, dict_full_info):
         doc = self.get_document(link)
@@ -80,22 +80,29 @@ class SearchEngine():
             return [dict_full_info[link], list_of_lines] #self.dict_full_info[key] greif auf die Wichtigkeit zu 
    
     #TODO Sontraud: Funktion testen --> dict_full_info ist instanz aus anderer Klasse
-    '''def paralleled(self):
+    def paralleled(self):
         dict_full_info = self.get_dict()
         with futures.ThreadPoolExecutor() as ex:
             for key in dict_full_info:
                 ex.submit(self.get_dict_of_lines, key, dict_full_info)
         self.dictionary_final = {k: v for k, v in sorted(self.dictionary_final.items(), key=lambda item: item[1])}
-        return self.dictionary_final'''
+        
+
+        try:
+            self.dictionary_final = {k: v for k, v in sorted(self.dictionary_final.items(), key=lambda item: item[0])}
+        except:
+            print("There has been an error")
+        finally:
+            return self.dictionary_final
     
-    def paralleled(self):
+    """def paralleled(self):
         dict_full_info = self.get_dict()
         dictionary_final = {}
         #with futures.ThreadPoolExecutor() as ex:
         for key in dict_full_info:
             dictionary_final[key] = self.get_dict_of_lines(key, dict_full_info)
             #dictionary_final[key] = zwvar.result()
-        """for link in dictionary_final:
+        for link in dictionary_final:
             try:
                 print(dictionary_final[link][0])
             except:
@@ -105,7 +112,7 @@ class SearchEngine():
         except:
             print("There has been an error")
         finally:"""
-        return dictionary_final
+        #return dictionary_final
 
     def print_dic(self):
         dic = self.paralleled()
