@@ -10,16 +10,14 @@ from bs4 import BeautifulSoup
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-"""def crawler(link):    
-    r = requests.get(link, verify=False)
-    li = []
-    #print(r.text)
-    
-    parser = MyHTMLParser(link, li)
-    parser.feed(r.text)
-    #print(li)
-    return li"""
+
 def crawler(link):    
+    '''
+    creates document with content of webpage
+    calls class MyHTMLParser
+    param: link to crawl
+    return: list of all links on the website
+    '''
     r = requests.get(link, verify=False)
     li = []
     #print(r.text)
@@ -32,12 +30,12 @@ def crawler(link):
     #results = BeautifulSoup(r.content, 'html.parser')
     s1 = soup.get_text()#strip = True)
     l = s1
-    #print(l)
-    l = s1.split("\n") 
-    print(l)
+    l = s1.split("\n") #seperate into paragraphs
+
     i = 0
     try:
         while i in range(0,len(l)-1):
+            #if blank space is followed by a blank space the later blank space is deleted
             if not l[i]:
                 l[i] = ' '
                 i+=1
@@ -46,8 +44,7 @@ def crawler(link):
             i+=1
     except:
         pass
-    print("\n")
-    print(''.join(l))
+
     modified_link = str(link)
     for char in "/\:#.":
         modified_link = modified_link.replace(char,"")
@@ -266,6 +263,10 @@ class EvalMatrix():
 
 
 class MyHTMLParser(HTMLParser):
+    '''
+    params: link, empty list li
+    returns: list of all links on that webpage
+    '''
     def __init__(self, link, li):
         super().__init__()
         self.link = link
@@ -275,16 +276,15 @@ class MyHTMLParser(HTMLParser):
         li = []
         if tag == "a":
             for name,values in attrs:
-                if name == "href":
-                    if not "@" in values:
+                if name == "href": #all Hyperlinks
+                    if not "@" in values: #no e-mail adress
                         isALetter = False
-                        for l in values:
+                        for l in values: 
                             isALetter = isALetter or l.isalpha()
-                        if isALetter:
+                        if isALetter: #passive links to active link
                             if not values[0] == "#" and ".rss" not in values:
                                 if not values[0].isalpha():
                                     values = self.link + values
-                                #print(values)
                                 self.li.append(values)        
                           
 
